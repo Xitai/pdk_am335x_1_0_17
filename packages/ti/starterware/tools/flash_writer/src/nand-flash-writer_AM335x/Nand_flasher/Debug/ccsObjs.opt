@@ -1,0 +1,1 @@
+"./AM335X_device.obj" "./AM335X_ecc.obj" "./board_identification.obj" "./debug.obj" "./i2c.obj" "./main.obj" "./nand.obj" "./nandwriter.obj" "./super_startup.obj" "./util.obj" "C:/ti/pdk_am335x_1_0_17/packages/ti/starterware/tools/flash_writer/src/nand-flash-writer_AM335x/linker.cmd" -llibc.a 

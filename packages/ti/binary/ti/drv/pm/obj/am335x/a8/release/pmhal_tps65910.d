@@ -1,0 +1,41 @@
+C:/ti/pdk_am335x_1_0_17/packages/ti/binary/ti/drv/pm/obj/am335x/a8/release/pmhal_tps65910.oa8fg: \
+ src/pmhal/prcm/pmhal_tps65910.c \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/csl/hw_types.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/pm_types.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/pm_utils.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/pmhal_prcm.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/V3/pmhal_prcm.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/pmhal_prcm_modinc.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/V3/pmhal_prcm_modinc.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/pm_types.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/pmhal_pmic.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/pmic/pmhal_tps65910.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/starterware/include/hw/hw_tps65910.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/pmhal_pmicComm.h \
+ C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/pmhal_i2cComm.h
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/csl/hw_types.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/pm_types.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/pm_utils.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/pmhal_prcm.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/V3/pmhal_prcm.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/pmhal_prcm_modinc.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/V3/pmhal_prcm_modinc.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/pm_types.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/pmhal_pmic.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/pmic/pmhal_tps65910.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/starterware/include/hw/hw_tps65910.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/pmhal_pmicComm.h:
+
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/pm/include/prcm/pmhal_i2cComm.h:

@@ -1,0 +1,106 @@
+******************************************************************************
+                     PRU Linker PC v2.3.2                      
+******************************************************************************
+>> Linked Tue Sep 22 13:13:02 2020
+
+OUTPUT FILE NAME:   <C:/ti/pdk_am335x_1_0_17/packages/ti/binary/icss_switch/obj/am335x/a8host/REV1/pru_1/icss_switch_PRU1.out>
+ENTRY POINT SYMBOL: "micro_scheduler"  address: 00000000
+
+
+MEMORY CONFIGURATION
+
+         name            origin    length      used     unused   attr    fill
+----------------------  --------  ---------  --------  --------  ----  --------
+PAGE 0:
+  PRUIMEM               00000000   00002000  0000103c  00000fc4  RWIX
+
+PAGE 1:
+  PRUDMEM               00000000   00001000  00000010  00000ff0  RWIX
+
+PAGE 2:
+  SHAREDMEM             00010000   00003000  00000000  00003000  RWIX
+
+
+SECTION ALLOCATION MAP
+
+ output                                  attributes/
+section   page    origin      length       input sections
+--------  ----  ----------  ----------   ----------------
+.text:micro_scheduler 
+*          0    00000000    00000120     
+                  00000000    00000120     micro_scheduler.opru (.text:micro_scheduler)
+
+.text      0    00000120    00000f1c     
+                  00000120    00000814     emac_MII_Rcv.opru (.text)
+                  00000934    000003f0     emac_MII_Xmt.opru (.text)
+                  00000d24    000001d4     emac_statistics.opru (.text)
+                  00000ef8    00000144     switch_collision_task.opru (.text)
+
+.data      1    00000000    00000010     
+                  00000000    00000010     micro_scheduler.opru (.data)
+
+.init_array 
+*          1    00000000    00000000     UNINITIALIZED
+
+.cinit     1    00000000    00000000     UNINITIALIZED
+
+MODULE SUMMARY
+
+       Module                       code   ro data   rw data
+       ------                       ----   -------   -------
+    C:\ti\pdk_am335x_1_0_17\packages\ti\binary\icss_switch\obj\am335x\a8host\REV1\pru_1\
+       emac_MII_Rcv.opru            2068   0         0      
+       emac_MII_Xmt.opru            1008   0         0      
+       emac_statistics.opru         468    0         0      
+       switch_collision_task.opru   324    0         0      
+       micro_scheduler.opru         288    0         16     
+    +--+----------------------------+------+---------+---------+
+       Total:                       4156   0         16     
+                                                            
+    +--+----------------------------+------+---------+---------+
+       Grand Total:                 4156   0         16     
+
+
+SEGMENT ATTRIBUTES
+
+    id tag      seg value
+    -- ---      --- -----
+     0 PHA_PAGE 1   1    
+
+
+GLOBAL SYMBOLS: SORTED ALPHABETICALLY BY Name 
+
+page  address   name                   
+----  -------   ----                   
+0     00000950  CHECK_NEXT_QUEUE       
+0     00000ef8  COLLISION_TASK_EXEC    
+0     00000120  FN_RCV_FB              
+0     000005a4  FN_RCV_LB              
+0     00000358  FN_RCV_NB              
+0     00000934  MII_TX_TASK            
+0     00000964  START_XMT_QUEUE        
+0     00000d24  STATS_TASK             
+0     0000006c  TASK_EXECUTION_FINISHED
+0     00000a6c  XMT_QUEUE              
+abs   ffffffff  __c_args__             
+0     00000000  micro_scheduler        
+
+
+GLOBAL SYMBOLS: SORTED BY Symbol Address 
+
+page  address   name                   
+----  -------   ----                   
+0     00000000  micro_scheduler        
+0     0000006c  TASK_EXECUTION_FINISHED
+0     00000120  FN_RCV_FB              
+0     00000358  FN_RCV_NB              
+0     000005a4  FN_RCV_LB              
+0     00000934  MII_TX_TASK            
+0     00000950  CHECK_NEXT_QUEUE       
+0     00000964  START_XMT_QUEUE        
+0     00000a6c  XMT_QUEUE              
+0     00000d24  STATS_TASK             
+0     00000ef8  COLLISION_TASK_EXEC    
+abs   ffffffff  __c_args__             
+
+[12 symbols]

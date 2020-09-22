@@ -1,0 +1,768 @@
+******************************************************************************
+                  TI ARM Linker PC v20.2.0                     
+******************************************************************************
+>> Linked Mon Jun  1 14:51:05 2020
+
+OUTPUT FILE NAME:   <NAND_Flashing_Tool.out>
+ENTRY POINT SYMBOL: "mystartup"  address: 40303fe8
+
+
+MEMORY CONFIGURATION
+
+         name            origin    length      used     unused   attr    fill
+----------------------  --------  ---------  --------  --------  ----  --------
+  RAM0                  402f8000   00017fff  00012cf2  0000530d  RWIX
+  DRAM                  40400000   00020000  00000000  00020000  RWIX
+
+
+SEGMENT ALLOCATION MAP
+
+run origin  load origin   length   init length attrs members
+----------  ----------- ---------- ----------- ----- -------
+402f8000    402f8000    0000c004   0000c004    r-x
+  402f8000    402f8000    0000c004   0000c004    r-x .text
+40304008    40304008    000068a4   00000000    rw-
+  40304008    40304008    00004000   00000000    rw- .stack
+  40308008    40308008    00002000   00000000    rw- .sysmem
+  4030a008    4030a008    000006ac   00000000    rw- .data
+  4030a6b4    4030a6b4    000001f8   00000000    rw- .bss
+4030a8b0    4030a8b0    00000450   00000450    r--
+  4030a8b0    4030a8b0    000001ea   000001ea    r-- .const
+  4030aaa0    4030aaa0    00000260   00000260    r-- .cinit
+
+
+SECTION ALLOCATION MAP
+
+ output                                  attributes/
+section   page    origin      length       input sections
+--------  ----  ----------  ----------   ----------------
+.text      0    402f8000    0000c004     
+                  402f8000    00001e90     nand.obj (.text)
+                  402f9e90    00001198     rtsv5_A_le_eabi.lib : _scanfi.c.obj (.text:__TI_scanfi)
+                  402fb028    00000ffc                         : _printfi.c.obj (.text:__TI_printfi)
+                  402fc024    00000e64     AM335X_ecc.obj (.text)
+                  402fce88    00000b14     i2c.obj (.text)
+                  402fd99c    00000a1c     nandwriter.obj (.text)
+                  402fe3b8    00000644     rtsv5_A_le_eabi.lib : strtod.c.obj (.text:strtod)
+                  402fe9fc    00000530     AM335X_device.obj (.text)
+                  402fef2c    00000370     main.obj (.text)
+                  402ff29c    00000368     rtsv5_A_le_eabi.lib : _printfi.c.obj (.text:_pconv_a)
+                  402ff604    000002d0                         : strtoll.c.obj (.text:strtoll)
+                  402ff8d4    000002b8                         : ull_div32.asm.obj (.text)
+                  402ffb8c    000002ac                         : _printfi.c.obj (.text:_pconv_g)
+                  402ffe38    00000240                         : strtoull.c.obj (.text:strtoull)
+                  40300078    00000214                         : fd_add32.asm.obj (.text)
+                  4030028c    0000020c     board_identification.obj (.text)
+                  40300498    000001f4     rtsv5_A_le_eabi.lib : strtol.c.obj (.text:strtol)
+                  4030068c    000001d4     util.obj (.text)
+                  40300860    000001b8     rtsv5_A_le_eabi.lib : strtoul.c.obj (.text:strtoul)
+                  40300a18    000001b0                         : _printfi.c.obj (.text:_pconv_e)
+                  40300bc8    000001b0                         : _printfi.c.obj (.text:fcvt)
+                  40300d78    000001a4                         : fputs.c.obj (.text:fputs)
+                  40300f1c    00000198                         : memory.c.obj (.text:aligned_alloc)
+                  403010b4    00000190                         : fopen.c.obj (.text:_openfile)
+                  40301244    00000190                         : fd_div32.asm.obj (.text)
+                  403013d4    00000184                         : fread.c.obj (.text:fread)
+                  40301558    00000180                         : memcpy32.asm.obj (.text)
+                  403016d8    00000174                         : memory.c.obj (.text:free)
+                  4030184c    00000154                         : setvbuf.c.obj (.text:setvbuf)
+                  403019a0    00000144                         : s_scalbn.c.obj (.text:scalbn)
+                  40301ae4    00000128                         : open.c.obj (.text:open)
+                  40301c0c    00000128                         : fd_mul32.asm.obj (.text)
+                  40301d34    00000114                         : i_div32.asm.obj (.text)
+                  40301e48    0000010d                         : _printfi.c.obj (.text:_ltostr)
+                  40301f55    00000003     --HOLE-- [fill = 0]
+                  40301f58    00000100                         : fputc.c.obj (.text:fputc)
+                  40302058    000000f8                         : fopen.c.obj (.text:fopen)
+                  40302150    000000f0                         : _bufread.c.obj (.text:__TI_buff_read)
+                  40302240    000000f0                         : u_div32.asm.obj (.text)
+                  40302330    000000ec                         : fscanf.c.obj (.text:_chkmbc)
+                  4030241c    000000e0                         : fd_cmp32.asm.obj (.text:__aeabi_cdcmple)
+                  403024fc    000000e0                         : fd_cmp32.asm.obj (.text:__aeabi_cdrcmple)
+                  403025dc    000000d4                         : fgetc.c.obj (.text:fgetc)
+                  403026b0    000000c8                         : _printfi.c.obj (.text:_mcpy)
+                  40302778    000000c8                         : ungetc.c.obj (.text:ungetc)
+                  40302840    000000b8                         : fclose.c.obj (.text:__TI_closefile)
+                  403028f8    000000b0                         : memset32.asm.obj (.text)
+                  403029a8    000000ac                         : hostlseek.c.obj (.text:HOSTlseek)
+                  40302a54    000000ac                         : fflush.c.obj (.text:fflush)
+                  40302b00    000000ac                         : memory.c.obj (.text:split)
+                  40302bac    000000a8                         : fseek.c.obj (.text:fseek)
+                  40302c54    000000a4                         : hostrename.c.obj (.text:HOSTrename)
+                  40302cf8    000000a4                         : ftell.c.obj (.text:ftell)
+                  40302d9c    000000a0                         : _io_perm.c.obj (.text:__TI_wrt_ok)
+                  40302e3c    0000009c                         : close.c.obj (.text:close)
+                  40302ed8    0000009c                         : copy_decompress_lzss.c.obj (.text:decompress:lzss:__TI_decompress_lzss)
+                  40302f74    0000009c                         : printf.c.obj (.text:printf)
+                  40303010    0000009c                         : fd_tos32.asm.obj (.text)
+                  403030ac    0000009c                         : fscanf.c.obj (.text:scanf)
+                  40303148    00000098                         : hostopen.c.obj (.text:HOSTopen)
+                  403031e0    00000098                         : _printfi.c.obj (.text:_ecpy)
+                  40303278    00000090                         : hostread.c.obj (.text:HOSTread)
+                  40303308    00000090                         : hostwrite.c.obj (.text:HOSTwrite)
+                  40303398    00000090     debug.obj (.text)
+                  40303428    00000088     rtsv5_A_le_eabi.lib : s_frexp.c.obj (.text:frexp)
+                  403034b0    00000084                         : fflush.c.obj (.text:__TI_doflush)
+                  40303534    00000084                         : _printfi.c.obj (.text:_pconv_f)
+                  403035b8    00000084                         : atoi.c.obj (.text:atoi)
+                  4030363c    00000080                         : _ltoa.c.obj (.text:__TI_ltoa)
+                  403036bc    0000007c                         : exit.c.obj (.text:exit)
+                  40303738    00000078                         : _io_perm.c.obj (.text:__TI_rd_ok)
+                  403037b0    00000074                         : hostclose.c.obj (.text:HOSTclose)
+                  40303824    00000070                         : hostunlink.c.obj (.text:HOSTunlink)
+                  40303894    0000006c                         : getdevice.c.obj (.text:getdevice)
+                  40303900    00000064                         : _printfi.c.obj (.text:_fcpy)
+                  40303964    00000060                         : autoinit.c.obj (.text:__TI_auto_init_nobinit_nopinit:__TI_auto_init_nobinit_nopinit)
+                  403039c4    0000005c                         : fd_toi32.asm.obj (.text)
+                  40303a20    00000058                         : trgmsg.c.obj (.text:__TI_readmsg)
+                  40303a78    00000054                         : fopen.c.obj (.text:__TI_cleanup)
+                  40303acc    00000054                         : trgmsg.c.obj (.text:__TI_writemsg)
+                  40303b20    00000054                         : getdevice.c.obj (.text:finddevice)
+                  40303b74    0000004c                         : fclose.c.obj (.text:fclose)
+                  40303bc0    00000048                         : strncpy.c.obj (.text:strncpy)
+                  40303c08    00000048                         : unlink.c.obj (.text:unlink)
+                  40303c50    00000044                         : lseek.c.obj (.text:lseek)
+                  40303c94    00000044                         : read.c.obj (.text:read)
+                  40303cd8    00000044                         : write.c.obj (.text:write)
+                  40303d1c    00000040                         : memory.c.obj (.text:free_list_insert)
+                  40303d5c    0000003c                         : boot_non_cortex_m.asm.obj (.text)
+                  40303d98    0000003c                         : i_tofd32.asm.obj (.text)
+                  40303dd4    00000030                         : memory.c.obj (.text:free_list_remove)
+                  40303e04    00000030                         : memccpy.c.obj (.text:memccpy)
+                  40303e34    0000002c                         : memchr.c.obj (.text:memchr)
+                  40303e60    0000002c                         : strrchr.c.obj (.text:strrchr)
+                  40303e8c    00000028                         : copy_zero_init.c.obj (.text:decompress:ZI:__TI_zero_init_nomemset:__TI_zero_init_nomemset)
+                  40303eb4    00000028                         : strchr.c.obj (.text:strchr)
+                  40303edc    00000028                         : strcmp.c.obj (.text:strcmp)
+                  40303f04    00000024                         : wcslen.c.obj (.text:wcslen)
+                  40303f28    00000020                         : args_main.c.obj (.text:_args_main)
+                  40303f48    00000020                         : strlen.c.obj (.text:strlen)
+                  40303f68    0000001c                         : strcpy.c.obj (.text:strcpy)
+                  40303f84    00000014                         : copy_decompress_none.c.obj (.text:decompress:none:__TI_decompress_none)
+                  40303f98    00000010                         : fscanf.c.obj (.text:_uninpchar)
+                  40303fa8    00000010                         : s_copysign.c.obj (.text:copysign)
+                  40303fb8    0000000c                         : errno.c.obj (.text:__aeabi_errno_addr)
+                  40303fc4    0000000c                         : memory.c.obj (.text:malloc)
+                  40303fd0    00000008                         : fscanf.c.obj (.text:_inpchar)
+                  40303fd8    00000008                         : pre_init.c.obj (.text:_system_pre_init)
+                  40303fe0    00000008                         : exit.c.obj (.text:abort:abort)
+                  40303fe8    00000008     super_startup.obj (.text)
+                  40303ff0    00000004     rtsv5_A_le_eabi.lib : mpu_init.c.obj (.text:__mpu_init)
+                  40303ff4    00000004                         : _lock.c.obj (.text:_nop)
+                  40303ff8    00000004                         : printf.c.obj (.text:_outc)
+                  40303ffc    00000004                         : printf.c.obj (.text:_outs)
+                  40304000    00000004                         : div0.asm.obj (.text)
+
+.sysmem    0    40308008    00002000     UNINITIALIZED
+                  40308008    00000010     rtsv5_A_le_eabi.lib : memory.c.obj (.sysmem)
+                  40308018    00001ff0     --HOLE--
+
+.bss       0    4030a6b4    000001f8     UNINITIALIZED
+                  4030a6b4    00000120     rtsv5_A_le_eabi.lib : trgmsg.c.obj (.bss:_CIOBUF_)
+                  4030a7d4    000000a0     (.common:__TI_tmpnams)
+                  4030a874    00000024     (.common:AM335X_DEVICE_NAND_ECC_info)
+                  4030a898    00000008     (.common:parmbuf)
+                  4030a8a0    00000004     nandwriter.obj (.bss)
+                  4030a8a4    00000004     util.obj (.bss)
+                  4030a8a8    00000004     (.common:loadblock)
+
+.const     0    4030a8b0    000001ea     
+                  4030a8b0    00000101     rtsv5_A_le_eabi.lib : ctype.c.obj (.const:.string:_ctypes_)
+                  4030a9b1    00000007                         : _scanfi.c.obj (.const:.string:flit$1)
+                  4030a9b8    00000080                         : strtod.c.obj (.const:digits)
+                  4030aa38    00000048                         : strtod.c.obj (.const:powerof10)
+                  4030aa80    00000014     AM335X_device.obj (.const:DEVICE_ASYNC_MEM_interfaces)
+                  4030aa94    00000006     rtsv5_A_le_eabi.lib : _scanfi.c.obj (.const:.string:barr$2)
+
+.stack     0    40304008    00004000     UNINITIALIZED
+                  40304008    00004000     --HOLE--
+
+.data      0    4030a008    000006ac     UNINITIALIZED
+                  4030a008    0000027c     AM335X_device.obj (.data:DEVICE_NAND_CHIP_infoTable)
+                  4030a284    00000100     main.obj (.data:app_fileName)
+                  4030a384    000000f0     rtsv5_A_le_eabi.lib : defs.c.obj (.data:_ftable)
+                  4030a474    00000080     AM335X_device.obj (.data:PAD_Conf_NANDFlash)
+                  4030a4f4    00000078     rtsv5_A_le_eabi.lib : host_device.c.obj (.data:_device)
+                  4030a56c    00000050                         : host_device.c.obj (.data:_stream)
+                  4030a5bc    00000048     AM335X_device.obj (.data:AM335X_DEVICE_NAND_PAGE_layout)
+                  4030a604    00000030     AM335X_device.obj (.data:GPMC_ConfigNANDDefault)
+                  4030a634    00000018     main.obj (.data:PAD_Conf_I2C0)
+                  4030a64c    00000010     AM335X_device.obj (.data:AM335X_DEVICE_ASYNC_MEM_info)
+                  4030a65c    00000010     main.obj (.data)
+                  4030a66c    00000010     rtsv5_A_le_eabi.lib : defs.c.obj (.data)
+                  4030a67c    0000000c                         : exit.c.obj (.data:$O1$$)
+                  4030a688    0000000c     AM335X_ecc.obj (.data:AM335X_DEVICE_NAND_BB_info)
+                  4030a694    00000008     rtsv5_A_le_eabi.lib : _lock.c.obj (.data:$O1$$)
+                  4030a69c    00000008                         : memory.c.obj (.data:$O1$$)
+                  4030a6a4    00000004     AM335X_ecc.obj (.data)
+                  4030a6a8    00000004     rtsv5_A_le_eabi.lib : errno.c.obj (.data)
+                  4030a6ac    00000004                         : fopen.c.obj (.data)
+                  4030a6b0    00000004                         : open.c.obj (.data)
+
+.cinit     0    4030aaa0    00000260     
+                  4030aaa0    0000023a     (.cinit..data.load) [load image, compression = lzss]
+                  4030acda    00000002     --HOLE-- [fill = 0]
+                  4030acdc    0000000c     (__TI_handler_table)
+                  4030ace8    00000008     (.cinit..bss.load) [load image, compression = zero_init]
+                  4030acf0    00000010     (__TI_cinit_table)
+
+__llvm_prf_cnts 
+*          0    402f8000    00000000     UNINITIALIZED
+
+MODULE SUMMARY
+
+       Module                       code    ro data   rw data
+       ------                       ----    -------   -------
+    .\
+       nand.obj                     7824    0         0      
+       AM335X_ecc.obj               3684    0         52     
+       i2c.obj                      2836    0         0      
+       nandwriter.obj               2588    0         4      
+       AM335X_device.obj            1328    20        900    
+       main.obj                     880     0         300    
+       board_identification.obj     524     0         0      
+       util.obj                     468     0         4      
+       debug.obj                    144     0         0      
+       super_startup.obj            8       0         0      
+    +--+----------------------------+-------+---------+---------+
+       Total:                       20284   20        1260   
+                                                             
+    C:/ti/ccs1000/ccs/tools/compiler/ti-cgt-arm_20.2.0.LTS/lib/rtsv5_A_le_eabi.lib
+       _printfi.c.obj               7365    0         0      
+       _scanfi.c.obj                4504    13        0      
+       strtod.c.obj                 1604    200       0      
+       memory.c.obj                 1076    0         8      
+       fopen.c.obj                  732     0         4      
+       strtoll.c.obj                720     0         0      
+       ull_div32.asm.obj            696     0         0      
+       strtoull.c.obj               576     0         0      
+       fd_add32.asm.obj             532     0         0      
+       strtol.c.obj                 500     0         0      
+       trgmsg.c.obj                 172     0         288    
+       fd_cmp32.asm.obj             448     0         0      
+       strtoul.c.obj                440     0         0      
+       fputs.c.obj                  420     0         0      
+       defs.c.obj                   0       0         416    
+       fscanf.c.obj                 416     0         0      
+       fd_div32.asm.obj             400     0         0      
+       fread.c.obj                  388     0         0      
+       memcpy32.asm.obj             384     0         0      
+       setvbuf.c.obj                340     0         0      
+       s_scalbn.c.obj               324     0         0      
+       fflush.c.obj                 304     0         0      
+       open.c.obj                   296     0         4      
+       fd_mul32.asm.obj             296     0         0      
+       _io_perm.c.obj               280     0         0      
+       i_div32.asm.obj              276     0         0      
+       fclose.c.obj                 260     0         0      
+       ctype.c.obj                  0       257       0      
+       fputc.c.obj                  256     0         0      
+       _bufread.c.obj               240     0         0      
+       u_div32.asm.obj              240     0         0      
+       fgetc.c.obj                  212     0         0      
+       host_device.c.obj            0       0         200    
+       ungetc.c.obj                 200     0         0      
+       getdevice.c.obj              192     0         0      
+       memset32.asm.obj             176     0         0      
+       hostlseek.c.obj              172     0         0      
+       fseek.c.obj                  168     0         0      
+       ftell.c.obj                  164     0         0      
+       hostrename.c.obj             164     0         0      
+       printf.c.obj                 164     0         0      
+       hostopen.c.obj               152     0         8      
+       close.c.obj                  156     0         0      
+       copy_decompress_lzss.c.obj   156     0         0      
+       fd_tos32.asm.obj             156     0         0      
+       exit.c.obj                   132     0         12     
+       hostread.c.obj               144     0         0      
+       hostwrite.c.obj              144     0         0      
+       s_frexp.c.obj                136     0         0      
+       atoi.c.obj                   132     0         0      
+       _ltoa.c.obj                  128     0         0      
+       hostclose.c.obj              116     0         0      
+       hostunlink.c.obj             112     0         0      
+       autoinit.c.obj               96      0         0      
+       fd_toi32.asm.obj             92      0         0      
+       strncpy.c.obj                72      0         0      
+       unlink.c.obj                 72      0         0      
+       lseek.c.obj                  68      0         0      
+       read.c.obj                   68      0         0      
+       write.c.obj                  68      0         0      
+       boot_non_cortex_m.asm.obj    60      0         0      
+       i_tofd32.asm.obj             60      0         0      
+       memccpy.c.obj                48      0         0      
+       memchr.c.obj                 44      0         0      
+       strrchr.c.obj                44      0         0      
+       copy_zero_init.c.obj         40      0         0      
+       strchr.c.obj                 40      0         0      
+       strcmp.c.obj                 40      0         0      
+       wcslen.c.obj                 36      0         0      
+       args_main.c.obj              32      0         0      
+       strlen.c.obj                 32      0         0      
+       strcpy.c.obj                 28      0         0      
+       copy_decompress_none.c.obj   20      0         0      
+       errno.c.obj                  12      0         4      
+       s_copysign.c.obj             16      0         0      
+       _lock.c.obj                  4       0         8      
+       pre_init.c.obj               8       0         0      
+       div0.asm.obj                 4       0         0      
+       mpu_init.c.obj               4       0         0      
+    +--+----------------------------+-------+---------+---------+
+       Total:                       28869   470       952    
+                                                             
+       Heap:                        0       0         8192   
+       Stack:                       0       0         16384  
+       Linker Generated:            0       606       0      
+    +--+----------------------------+-------+---------+---------+
+       Grand Total:                 49153   1096      26788  
+
+
+LINKER GENERATED COPY TABLES
+
+__TI_cinit_table @ 4030acf0 records: 2, size/record: 8, table size: 16
+	.data: load addr=4030aaa0, load size=0000023a bytes, run addr=4030a008, run size=000006ac bytes, compression=lzss
+	.bss: load addr=4030ace8, load size=00000008 bytes, run addr=4030a6b4, run size=000001f8 bytes, compression=zero_init
+
+
+LINKER GENERATED HANDLER TABLE
+
+__TI_handler_table @ 4030acdc records: 3, size/record: 4, table size: 12
+	index: 0, handler: __TI_zero_init
+	index: 1, handler: __TI_decompress_lzss
+	index: 2, handler: __TI_decompress_none
+
+
+GLOBAL SYMBOLS: SORTED ALPHABETICALLY BY Name 
+
+address   name                                 
+-------   ----                                 
+402fedd8  AM335X_ASYNC_MEM_Open                
+4030a64c  AM335X_DEVICE_ASYNC_MEM_info         
+4030a688  AM335X_DEVICE_NAND_BB_info           
+4030a874  AM335X_DEVICE_NAND_ECC_info          
+4030a5bc  AM335X_DEVICE_NAND_PAGE_layout       
+402fec58  AM335X_DEVICE_init                   
+402fc270  AM335X_Device_setECC                 
+402f8000  AM335X_NAND_badBlockCheck            
+402f8ef8  AM335X_NAND_eraseBlocks              
+402f8fa0  AM335X_NAND_eraseBlocks_with_bb_check
+402f8eb0  AM335X_NAND_globalErase              
+402f86c8  AM335X_NAND_isWriteProtected         
+402feaac  AM335X_NAND_open                     
+402f90dc  AM335X_NAND_protectBlocks            
+402f85e0  AM335X_NAND_readBCHSpare             
+402f83c8  AM335X_NAND_readSpareBytesOfPage     
+402f8174  AM335X_NAND_reset                    
+402f9034  AM335X_NAND_unProtectBlocks          
+402f8df0  AM335X_NAND_verifyBlockErased        
+402f8cec  AM335X_NAND_verifyPage               
+402f8824  AM335X_NAND_writeOnlySpareBytesOfPage
+402f89e8  AM335X_NAND_writePage                
+402fea70  AM335X_Start                         
+40300718  AM335X_UTIL_allocMem                 
+4030078c  AM335X_UTIL_callocMem                
+403006fc  AM335X_UTIL_setCurrMemPtr            
+402f9604  AM335X_flashGetDetails               
+40303fe0  C$$EXIT                              
+40303b14  C$$IO$$                              
+403033b0  DEBUG_printHexInt                    
+403033cc  DEBUG_printInt                       
+40303398  DEBUG_printString                    
+403033fc  DEBUG_readChar                       
+403033e0  DEBUG_readString                     
+4030aa80  DEVICE_ASYNC_MEM_interfaces          
+4030a008  DEVICE_NAND_CHIP_infoTable           
+4030a604  GPMC_ConfigNANDDefault               
+402fec70  GPMC_Write                           
+403037b0  HOSTclose                            
+403029a8  HOSTlseek                            
+40303148  HOSTopen                             
+40303278  HOSTread                             
+40302c54  HOSTrename                           
+40303824  HOSTunlink                           
+40303308  HOSTwrite                            
+402fcec8  I2C_readw                            
+402fcea8  I2C_writeb                           
+402fce88  I2C_writew                           
+4030a6a4  NAND_ECC_Info_Handle                 
+402f870c  NAND_badBlockMark                    
+402f8ed4  NAND_globalErase_with_bb_check       
+402f81a0  NAND_readPage                        
+402fe9fc  PAD_ConfigMux                        
+4030068c  UTIL_getCurrMemPtr                   
+40300698  UTIL_memcpy                          
+403007fc  UTIL_waitLoop                        
+40300844  UTIL_waitLoopAccurate                
+4030a6b4  __CIOBUF_                            
+40308008  __STACK_END                          
+00004000  __STACK_SIZE                         
+00002000  __SYSMEM_SIZE                        
+4030acf0  __TI_CINIT_Base                      
+4030ad00  __TI_CINIT_Limit                     
+4030acdc  __TI_Handler_Table_Base              
+4030ace8  __TI_Handler_Table_Limit             
+40303964  __TI_auto_init_nobinit_nopinit       
+40302150  __TI_buff_read                       
+40303a78  __TI_cleanup                         
+4030a67c  __TI_cleanup_ptr                     
+40302840  __TI_closefile                       
+40302ed8  __TI_decompress_lzss                 
+40303f84  __TI_decompress_none                 
+403034b0  __TI_doflush                         
+4030a680  __TI_dtors_ptr                       
+4030a684  __TI_enable_exit_profile_output      
+4030a66c  __TI_ft_end                          
+4030363c  __TI_ltoa                            
+ffffffff  __TI_pprof_out_hndl                  
+402fb028  __TI_printfi                         
+ffffffff  __TI_prof_data_size                  
+ffffffff  __TI_prof_data_start                 
+40303738  __TI_rd_ok                           
+40303a20  __TI_readmsg                         
+402f9e94  __TI_scanfi                          
+4030aaa0  __TI_static_base__                   
+4030a7d4  __TI_tmpnams                         
+40303acc  __TI_writemsg                        
+40302d9c  __TI_wrt_ok                          
+40303e8c  __TI_zero_init_nomemset              
+4030241c  __aeabi_cdcmpeq                      
+4030241c  __aeabi_cdcmple                      
+403024fc  __aeabi_cdrcmple                     
+40303010  __aeabi_d2f                          
+403039c4  __aeabi_d2iz                         
+40300084  __aeabi_dadd                         
+40301244  __aeabi_ddiv                         
+40301c0c  __aeabi_dmul                         
+40300078  __aeabi_dsub                         
+40303fb8  __aeabi_errno_addr                   
+40303d98  __aeabi_i2d                          
+40301d34  __aeabi_idiv                         
+40304000  __aeabi_idiv0                        
+40301d34  __aeabi_idivmod                      
+40304000  __aeabi_ldiv0                        
+403028f8  __aeabi_memclr                       
+403028f8  __aeabi_memclr4                      
+403028f8  __aeabi_memclr8                      
+40301558  __aeabi_memcpy                       
+40301558  __aeabi_memcpy4                      
+40301558  __aeabi_memcpy8                      
+403028fc  __aeabi_memset                       
+403028fc  __aeabi_memset4                      
+403028fc  __aeabi_memset8                      
+4030a678  __aeabi_stderr                       
+4030a670  __aeabi_stdin                        
+4030a674  __aeabi_stdout                       
+40302240  __aeabi_uidiv                        
+40302240  __aeabi_uidivmod                     
+402ff8d4  __aeabi_uldivmod                     
+ffffffff  __binit__                            
+ffffffff  __c_args__                           
+40303ff0  __mpu_init                           
+40304008  __stack                              
+402f8000  __start___llvm_prf_cnts              
+402f8000  __stop___llvm_prf_cnts               
+40303f28  _args_main                           
+40303d5c  _c_int00                             
+4030a8b0  _ctypes_                             
+4030a4f4  _device                              
+4030a384  _ftable                              
+4030a694  _lock                                
+40303ff4  _nop                                 
+4030a56c  _stream                              
+40308008  _sys_memory                          
+UNDEFED   _system_post_cinit                   
+40303fd8  _system_pre_init                     
+4030a698  _unlock                              
+40303fe0  abort                                
+40300f1c  aligned_alloc                        
+4030a664  app_ecc                              
+4030a284  app_fileName                         
+403035b8  atoi                                 
+ffffffff  binit                                
+40302e3c  close                                
+40303fa8  copysign                             
+40303fa8  copysignl                            
+4030a660  eraseGlobal                          
+4030a6a8  errno                                
+403036bc  exit                                 
+40303b74  fclose                               
+40302a54  fflush                               
+403025dc  fgetc                                
+40303b20  finddevice                           
+40302058  fopen                                
+40301f58  fputc                                
+40300d78  fputs                                
+403013d4  fread                                
+403016d8  free                                 
+40303428  frexp                                
+40303428  frexpl                               
+40302bac  fseek                                
+40302cf8  ftell                                
+403025dc  getc                                 
+40303894  getdevice                            
+4030028c  i2c_daughter_card_detection          
+402fcee0  i2c_init                             
+402fd27c  i2c_probe                            
+402fd60c  i2c_read_byte                        
+403019a0  ldexp                                
+403019a0  ldexpl                               
+4030a8a8  loadblock                            
+40303c50  lseek                                
+402fef2c  main                                 
+40303fc4  malloc                               
+40300f1c  memalign                             
+40303e04  memccpy                              
+40303e34  memchr                               
+40301558  memcpy                               
+40302908  memset                               
+40303fe8  mystartup                            
+402fd99c  nandwriter                           
+40301ae4  open                                 
+4030a65c  operation                            
+4030a898  parmbuf                              
+40302f74  printf                               
+403003f8  profile_identification               
+40301f58  putc                                 
+40303c94  read                                 
+40303c08  remove                               
+403019a0  scalbn                               
+403019a0  scalbnl                              
+403030ac  scanf                                
+4030184c  setvbuf                              
+40303eb4  strchr                               
+40303edc  strcmp                               
+40303f68  strcpy                               
+40303f48  strlen                               
+40303bc0  strncpy                              
+40303e60  strrchr                              
+402fe3b8  strtod                               
+40300498  strtol                               
+402fe3b8  strtold                              
+402ff604  strtoll                              
+40300860  strtoul                              
+402ffe38  strtoull                             
+4030a668  uboot_ecc                            
+40302778  ungetc                               
+40303c08  unlink                               
+402fd4fc  wait_status_mask                     
+40303f04  wcslen                               
+40303cd8  write                                
+
+
+GLOBAL SYMBOLS: SORTED BY Symbol Address 
+
+address   name                                 
+-------   ----                                 
+00002000  __SYSMEM_SIZE                        
+00004000  __STACK_SIZE                         
+402f8000  AM335X_NAND_badBlockCheck            
+402f8000  __start___llvm_prf_cnts              
+402f8000  __stop___llvm_prf_cnts               
+402f8174  AM335X_NAND_reset                    
+402f81a0  NAND_readPage                        
+402f83c8  AM335X_NAND_readSpareBytesOfPage     
+402f85e0  AM335X_NAND_readBCHSpare             
+402f86c8  AM335X_NAND_isWriteProtected         
+402f870c  NAND_badBlockMark                    
+402f8824  AM335X_NAND_writeOnlySpareBytesOfPage
+402f89e8  AM335X_NAND_writePage                
+402f8cec  AM335X_NAND_verifyPage               
+402f8df0  AM335X_NAND_verifyBlockErased        
+402f8eb0  AM335X_NAND_globalErase              
+402f8ed4  NAND_globalErase_with_bb_check       
+402f8ef8  AM335X_NAND_eraseBlocks              
+402f8fa0  AM335X_NAND_eraseBlocks_with_bb_check
+402f9034  AM335X_NAND_unProtectBlocks          
+402f90dc  AM335X_NAND_protectBlocks            
+402f9604  AM335X_flashGetDetails               
+402f9e94  __TI_scanfi                          
+402fb028  __TI_printfi                         
+402fc270  AM335X_Device_setECC                 
+402fce88  I2C_writew                           
+402fcea8  I2C_writeb                           
+402fcec8  I2C_readw                            
+402fcee0  i2c_init                             
+402fd27c  i2c_probe                            
+402fd4fc  wait_status_mask                     
+402fd60c  i2c_read_byte                        
+402fd99c  nandwriter                           
+402fe3b8  strtod                               
+402fe3b8  strtold                              
+402fe9fc  PAD_ConfigMux                        
+402fea70  AM335X_Start                         
+402feaac  AM335X_NAND_open                     
+402fec58  AM335X_DEVICE_init                   
+402fec70  GPMC_Write                           
+402fedd8  AM335X_ASYNC_MEM_Open                
+402fef2c  main                                 
+402ff604  strtoll                              
+402ff8d4  __aeabi_uldivmod                     
+402ffe38  strtoull                             
+40300078  __aeabi_dsub                         
+40300084  __aeabi_dadd                         
+4030028c  i2c_daughter_card_detection          
+403003f8  profile_identification               
+40300498  strtol                               
+4030068c  UTIL_getCurrMemPtr                   
+40300698  UTIL_memcpy                          
+403006fc  AM335X_UTIL_setCurrMemPtr            
+40300718  AM335X_UTIL_allocMem                 
+4030078c  AM335X_UTIL_callocMem                
+403007fc  UTIL_waitLoop                        
+40300844  UTIL_waitLoopAccurate                
+40300860  strtoul                              
+40300d78  fputs                                
+40300f1c  aligned_alloc                        
+40300f1c  memalign                             
+40301244  __aeabi_ddiv                         
+403013d4  fread                                
+40301558  __aeabi_memcpy                       
+40301558  __aeabi_memcpy4                      
+40301558  __aeabi_memcpy8                      
+40301558  memcpy                               
+403016d8  free                                 
+4030184c  setvbuf                              
+403019a0  ldexp                                
+403019a0  ldexpl                               
+403019a0  scalbn                               
+403019a0  scalbnl                              
+40301ae4  open                                 
+40301c0c  __aeabi_dmul                         
+40301d34  __aeabi_idiv                         
+40301d34  __aeabi_idivmod                      
+40301f58  fputc                                
+40301f58  putc                                 
+40302058  fopen                                
+40302150  __TI_buff_read                       
+40302240  __aeabi_uidiv                        
+40302240  __aeabi_uidivmod                     
+4030241c  __aeabi_cdcmpeq                      
+4030241c  __aeabi_cdcmple                      
+403024fc  __aeabi_cdrcmple                     
+403025dc  fgetc                                
+403025dc  getc                                 
+40302778  ungetc                               
+40302840  __TI_closefile                       
+403028f8  __aeabi_memclr                       
+403028f8  __aeabi_memclr4                      
+403028f8  __aeabi_memclr8                      
+403028fc  __aeabi_memset                       
+403028fc  __aeabi_memset4                      
+403028fc  __aeabi_memset8                      
+40302908  memset                               
+403029a8  HOSTlseek                            
+40302a54  fflush                               
+40302bac  fseek                                
+40302c54  HOSTrename                           
+40302cf8  ftell                                
+40302d9c  __TI_wrt_ok                          
+40302e3c  close                                
+40302ed8  __TI_decompress_lzss                 
+40302f74  printf                               
+40303010  __aeabi_d2f                          
+403030ac  scanf                                
+40303148  HOSTopen                             
+40303278  HOSTread                             
+40303308  HOSTwrite                            
+40303398  DEBUG_printString                    
+403033b0  DEBUG_printHexInt                    
+403033cc  DEBUG_printInt                       
+403033e0  DEBUG_readString                     
+403033fc  DEBUG_readChar                       
+40303428  frexp                                
+40303428  frexpl                               
+403034b0  __TI_doflush                         
+403035b8  atoi                                 
+4030363c  __TI_ltoa                            
+403036bc  exit                                 
+40303738  __TI_rd_ok                           
+403037b0  HOSTclose                            
+40303824  HOSTunlink                           
+40303894  getdevice                            
+40303964  __TI_auto_init_nobinit_nopinit       
+403039c4  __aeabi_d2iz                         
+40303a20  __TI_readmsg                         
+40303a78  __TI_cleanup                         
+40303acc  __TI_writemsg                        
+40303b14  C$$IO$$                              
+40303b20  finddevice                           
+40303b74  fclose                               
+40303bc0  strncpy                              
+40303c08  remove                               
+40303c08  unlink                               
+40303c50  lseek                                
+40303c94  read                                 
+40303cd8  write                                
+40303d5c  _c_int00                             
+40303d98  __aeabi_i2d                          
+40303e04  memccpy                              
+40303e34  memchr                               
+40303e60  strrchr                              
+40303e8c  __TI_zero_init_nomemset              
+40303eb4  strchr                               
+40303edc  strcmp                               
+40303f04  wcslen                               
+40303f28  _args_main                           
+40303f48  strlen                               
+40303f68  strcpy                               
+40303f84  __TI_decompress_none                 
+40303fa8  copysign                             
+40303fa8  copysignl                            
+40303fb8  __aeabi_errno_addr                   
+40303fc4  malloc                               
+40303fd8  _system_pre_init                     
+40303fe0  C$$EXIT                              
+40303fe0  abort                                
+40303fe8  mystartup                            
+40303ff0  __mpu_init                           
+40303ff4  _nop                                 
+40304000  __aeabi_idiv0                        
+40304000  __aeabi_ldiv0                        
+40304008  __stack                              
+40308008  __STACK_END                          
+40308008  _sys_memory                          
+4030a008  DEVICE_NAND_CHIP_infoTable           
+4030a284  app_fileName                         
+4030a384  _ftable                              
+4030a4f4  _device                              
+4030a56c  _stream                              
+4030a5bc  AM335X_DEVICE_NAND_PAGE_layout       
+4030a604  GPMC_ConfigNANDDefault               
+4030a64c  AM335X_DEVICE_ASYNC_MEM_info         
+4030a65c  operation                            
+4030a660  eraseGlobal                          
+4030a664  app_ecc                              
+4030a668  uboot_ecc                            
+4030a66c  __TI_ft_end                          
+4030a670  __aeabi_stdin                        
+4030a674  __aeabi_stdout                       
+4030a678  __aeabi_stderr                       
+4030a67c  __TI_cleanup_ptr                     
+4030a680  __TI_dtors_ptr                       
+4030a684  __TI_enable_exit_profile_output      
+4030a688  AM335X_DEVICE_NAND_BB_info           
+4030a694  _lock                                
+4030a698  _unlock                              
+4030a6a4  NAND_ECC_Info_Handle                 
+4030a6a8  errno                                
+4030a6b4  __CIOBUF_                            
+4030a7d4  __TI_tmpnams                         
+4030a874  AM335X_DEVICE_NAND_ECC_info          
+4030a898  parmbuf                              
+4030a8a8  loadblock                            
+4030a8b0  _ctypes_                             
+4030aa80  DEVICE_ASYNC_MEM_interfaces          
+4030aaa0  __TI_static_base__                   
+4030acdc  __TI_Handler_Table_Base              
+4030ace8  __TI_Handler_Table_Limit             
+4030acf0  __TI_CINIT_Base                      
+4030ad00  __TI_CINIT_Limit                     
+ffffffff  __TI_pprof_out_hndl                  
+ffffffff  __TI_prof_data_size                  
+ffffffff  __TI_prof_data_start                 
+ffffffff  __binit__                            
+ffffffff  __c_args__                           
+ffffffff  binit                                
+UNDEFED   _system_post_cinit                   
+
+[211 symbols]

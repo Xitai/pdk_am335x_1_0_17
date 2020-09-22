@@ -1,0 +1,2 @@
+C:/ti/pdk_am335x_1_0_17/packages/ti/starterware/binary/soc/obj/am335x-evm/a8/debug/gcc/init.o: \
+ armv7a/gcc/init.S

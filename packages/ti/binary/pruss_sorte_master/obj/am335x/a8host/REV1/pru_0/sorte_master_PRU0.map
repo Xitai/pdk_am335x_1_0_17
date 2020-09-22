@@ -1,0 +1,74 @@
+******************************************************************************
+                     PRU Linker PC v2.3.2                      
+******************************************************************************
+>> Linked Tue Sep 22 13:13:01 2020
+
+OUTPUT FILE NAME:   <C:/ti/pdk_am335x_1_0_17/packages/ti/binary/pruss_sorte_master/obj/am335x/a8host/REV1/pru_0/sorte_master_PRU0.out>
+ENTRY POINT SYMBOL: "firm_main"  address: 00000000
+
+
+MEMORY CONFIGURATION
+
+         name            origin    length      used     unused   attr    fill
+----------------------  --------  ---------  --------  --------  ----  --------
+PAGE 0:
+  PRUIMEM               00000000   00001000  000007d8  00000828  RWIX
+
+PAGE 1:
+  PRUDMEM               00000000   00001000  00000000  00001000  RWIX
+
+PAGE 2:
+  SHAREDMEM             00010000   00003000  00000000  00003000  RWIX
+
+
+SECTION ALLOCATION MAP
+
+ output                                  attributes/
+section   page    origin      length       input sections
+--------  ----  ----------  ----------   ----------------
+.text:firm_main 
+*          0    00000000    00000738     
+                  00000000    00000738     firm_main.opru (.text:firm_main)
+
+.text      0    00000738    000000a0     
+                  00000738    000000a0     discovery.opru (.text)
+
+.init_array 
+*          1    00000000    00000000     UNINITIALIZED
+
+.cinit     1    00000000    00000000     UNINITIALIZED
+
+MODULE SUMMARY
+
+       Module           code   ro data   rw data
+       ------           ----   -------   -------
+    C:\ti\pdk_am335x_1_0_17\packages\ti\binary\pruss_sorte_master\obj\am335x\a8host\REV1\pru_0\
+       firm_main.opru   1848   0         0      
+       discovery.opru   160    0         0      
+    +--+----------------+------+---------+---------+
+       Total:           2008   0         0      
+                                                
+    +--+----------------+------+---------+---------+
+       Grand Total:     2008   0         0      
+
+
+GLOBAL SYMBOLS: SORTED ALPHABETICALLY BY Name 
+
+page  address   name                     
+----  -------   ----                     
+0     00000738  FN_DISC_RCV              
+0     0000005c  IDLE_WAIT_FOR_LINK_ACTIVE
+abs   ffffffff  __c_args__               
+0     00000000  firm_main                
+
+
+GLOBAL SYMBOLS: SORTED BY Symbol Address 
+
+page  address   name                     
+----  -------   ----                     
+0     00000000  firm_main                
+0     0000005c  IDLE_WAIT_FOR_LINK_ACTIVE
+0     00000738  FN_DISC_RCV              
+abs   ffffffff  __c_args__               
+
+[4 symbols]

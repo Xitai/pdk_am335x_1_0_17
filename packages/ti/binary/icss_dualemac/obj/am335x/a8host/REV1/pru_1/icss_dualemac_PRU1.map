@@ -1,0 +1,138 @@
+******************************************************************************
+                     PRU Linker PC v2.3.2                      
+******************************************************************************
+>> Linked Tue Sep 22 13:13:02 2020
+
+OUTPUT FILE NAME:   <C:/ti/pdk_am335x_1_0_17/packages/ti/binary/icss_dualemac/obj/am335x/a8host/REV1/pru_1/icss_dualemac_PRU1.out>
+ENTRY POINT SYMBOL: "micro_scheduler"  address: 00000000
+
+
+MEMORY CONFIGURATION
+
+         name            origin    length      used     unused   attr    fill
+----------------------  --------  ---------  --------  --------  ----  --------
+PAGE 0:
+  PRUIMEM               00000000   00002000  00001800  00000800  RWIX
+
+PAGE 1:
+  PRUDMEM               00000000   00001000  0000004e  00000fb2  RWIX
+
+PAGE 2:
+  SHAREDMEM             00010000   00003000  00000000  00003000  RWIX
+
+
+SECTION ALLOCATION MAP
+
+ output                                  attributes/
+section   page    origin      length       input sections
+--------  ----  ----------  ----------   ----------------
+.text:micro_scheduler 
+*          0    00000000    00000218     
+                  00000000    00000218     micro_scheduler.opru (.text:micro_scheduler)
+
+.text      0    00000218    000015e8     
+                  00000218    00000690     emac_MII_Rcv.opru (.text)
+                  000008a8    00000620     emac_MII_Xmt.opru (.text)
+                  00000ec8    00000554     emac_ptp.opru (.text)
+                  0000141c    0000027c     emac_tts.opru (.text)
+                  00001698    00000168     emac_statistics.opru (.text)
+
+.data      1    00000000    00000010     
+                  00000000    00000010     micro_scheduler.opru (.data)
+
+.init_array 
+*          1    00000000    00000000     UNINITIALIZED
+
+.cinit     1    00000000    00000000     UNINITIALIZED
+
+.resource_table 
+*          1    00000010    0000003e     
+                  00000010    00000034     resource_table.opru (.resource_table:retain)
+                  00000044    0000000a     resource_table.opru (.resource_table)
+
+MODULE SUMMARY
+
+       Module                 code   ro data   rw data
+       ------                 ----   -------   -------
+    C:\ti\pdk_am335x_1_0_17\packages\ti\binary\icss_dualemac\obj\am335x\a8host\REV1\pru_1\
+       emac_MII_Rcv.opru      1680   0         0      
+       emac_MII_Xmt.opru      1568   0         0      
+       emac_ptp.opru          1364   0         0      
+       emac_tts.opru          636    0         0      
+       micro_scheduler.opru   536    0         16     
+       emac_statistics.opru   360    0         0      
+       resource_table.opru    0      0         62     
+    +--+----------------------+------+---------+---------+
+       Total:                 6144   0         78     
+                                                      
+    +--+----------------------+------+---------+---------+
+       Grand Total:           6144   0         78     
+
+
+SEGMENT ATTRIBUTES
+
+    id tag      seg value
+    -- ---      --- -----
+     0 PHA_PAGE 1   1    
+
+
+GLOBAL SYMBOLS: SORTED ALPHABETICALLY BY Name 
+
+page  address   name                              
+----  -------   ----                              
+0     00000934  CHECK_NEXT_QUEUE                  
+0     00001068  FN_PTP_TX_ADD_DELAY               
+0     000012e0  FN_PTP_TX_ADD_DELAY_UDP           
+0     00000218  FN_RCV_FB                         
+0     0000060c  FN_RCV_LB                         
+0     000004fc  FN_RCV_NB                         
+0     00000ec8  FN_TIMESTAMP_GPTP_PACKET          
+0     000011fc  FN_TIMESTAMP_GPTP_PACKET_UDP      
+0     00001688  FN_TTS_EXIT_IEP_CMPCFG_ARBITRATION
+0     0000151c  FN_TTS_IEP_CFG_CLEAR              
+0     0000141c  FN_TTS_IEP_CFG_PRE_ICSS_REV1      
+0     00001654  FN_TTS_IEP_CMPCFG_ARBITRATION     
+0     0000156c  FN_TTS_PKT_SIZE_CHECK_ICSS_REV1   
+0     000008a8  MII_TX_TASK                       
+0     0000008c  RET_TTS_IEP_CFG_CLEAR             
+0     000001bc  RET_TTS_IEP_CFG_PRE               
+0     00000984  START_XMT_QUEUE                   
+0     00001698  STATS_TASK                        
+0     000000d8  TASK_EXECUTION_FINISHED           
+0     00000b60  XMT_QUEUE                         
+abs   ffffffff  __c_args__                        
+0     00000000  micro_scheduler                   
+1     00000044  pru_intc_map                      
+1     00000010  resourceTable                     
+
+
+GLOBAL SYMBOLS: SORTED BY Symbol Address 
+
+page  address   name                              
+----  -------   ----                              
+0     00000000  micro_scheduler                   
+0     0000008c  RET_TTS_IEP_CFG_CLEAR             
+0     000000d8  TASK_EXECUTION_FINISHED           
+0     000001bc  RET_TTS_IEP_CFG_PRE               
+0     00000218  FN_RCV_FB                         
+0     000004fc  FN_RCV_NB                         
+0     0000060c  FN_RCV_LB                         
+0     000008a8  MII_TX_TASK                       
+0     00000934  CHECK_NEXT_QUEUE                  
+0     00000984  START_XMT_QUEUE                   
+0     00000b60  XMT_QUEUE                         
+0     00000ec8  FN_TIMESTAMP_GPTP_PACKET          
+0     00001068  FN_PTP_TX_ADD_DELAY               
+0     000011fc  FN_TIMESTAMP_GPTP_PACKET_UDP      
+0     000012e0  FN_PTP_TX_ADD_DELAY_UDP           
+0     0000141c  FN_TTS_IEP_CFG_PRE_ICSS_REV1      
+0     0000151c  FN_TTS_IEP_CFG_CLEAR              
+0     0000156c  FN_TTS_PKT_SIZE_CHECK_ICSS_REV1   
+0     00001654  FN_TTS_IEP_CMPCFG_ARBITRATION     
+0     00001688  FN_TTS_EXIT_IEP_CMPCFG_ARBITRATION
+0     00001698  STATS_TASK                        
+1     00000010  resourceTable                     
+1     00000044  pru_intc_map                      
+abs   ffffffff  __c_args__                        
+
+[24 symbols]

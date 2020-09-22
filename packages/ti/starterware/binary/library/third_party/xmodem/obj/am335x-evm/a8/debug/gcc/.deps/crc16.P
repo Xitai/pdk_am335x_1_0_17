@@ -1,0 +1,2 @@
+C:/ti/pdk_am335x_1_0_17/packages/ti/starterware/binary/library/third_party/xmodem/obj/am335x-evm/a8/debug/gcc/crc16_boot.o: \
+ crc16.c crc16.h

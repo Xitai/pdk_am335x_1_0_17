@@ -1,0 +1,1939 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-strncmp.o)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o (strncmp)
+C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o (Board_init)
+C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_info.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o (Board_getIDInfo)
+C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_lld_init.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg) (Board_uartStdioInit)
+C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_pinmux.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg) (Board_pinmuxConfig)
+C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_pinmux.oa8fg) (CHIPDBBaseAddress)
+C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg) (PRCMModuleEnable)
+C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg) (CHIPDBSpeedGradeProcID)
+C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg) (gChipDBBaseAddrTable)
+C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg) (gChipDBInterruptTables)
+C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_pinmux.oa8fg) (gEvmskPinmuxData)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_lld_init.oa8fg) (UART_stdioInit)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg) (UART_ASCIIUtils_charToDigit)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg) (UART_close)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg) (UART_config)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg) (UART_v2_FxnTable)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg) (UART_FxnTable_v1)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o (GPIO_init)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_soc.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg) (GPIO_config)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_soc.oa8fg) (GPIO_FxnTable_v1)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_info.oa8fg) (I2C_close)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_lld_init.oa8fg) (I2C_config)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg) (I2C_v2_FxnTable)
+C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg) (I2C_v1_FxnTable)
+C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg) (GPIOModuleEnable)
+C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg) (I2CMasterInitExpClk)
+C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg) (UARTOperatingModeSelect)
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memcpy-stub.o)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg) (memcpy)
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memset.o)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg) (memset)
+C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg) (HwiP_disable)
+C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg) (Osal_DebugP_assert)
+C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg) (SemaphoreP_create)
+C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg) (Osal_RegisterInterrupt_initParams)
+C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg) (OsalArch_enableInterrupt)
+C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg) (TimerP_Params_init)
+C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg) (Osal_delay)
+C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimestampProvider_asm.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg) (osal_TimestampProvider_readCntr)
+C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_default.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg) (TimerP_getDefaultFreqLo)
+C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg) (TIMEREnable)
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivsi3.o)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg) (__aeabi_uidiv)
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_divsi3.o)
+                              (__aeabi_idiv)
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_dvmd_tls.o)
+                              c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_ldivmod.o)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg) (__aeabi_ldivmod)
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_uldivmod.o)
+                              C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg) (__aeabi_uldivmod)
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivmoddi4.o)
+                              c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzdi2.o)
+                              c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivmoddi4.o) (__clzdi2)
+c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzsi2.o)
+                              c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzdi2.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+UartObjects         0x3a8             C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+Board_obj           0x4               C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+UartObjects2        0x330             C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+semStructs          0x140             C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+gTimerStructs       0x210             C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+KeyScn              0x20              C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+I2cObjects2         0x4c              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+I2cObjects          0xd8              C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_entry.ao
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_entry.ao
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+ .text          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-strncmp.o)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-strncmp.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-strncmp.o)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+ .text.Board_DDR3Init
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+ .text.Board_PLLInit
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+ .text.boardInit
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+ .data.eepromData
+                0x00000000        0xa C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_info.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_info.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_info.oa8fg)
+ .text.Board_writeIDInfo
+                0x00000000      0x120 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_info.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_lld_init.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_lld_init.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_lld_init.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_pinmux.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_pinmux.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_pinmux.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBEnable
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBDisable
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBModuleMaxInstanceNumber
+                0x00000000       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBIsResourcePresent
+                0x00000000       0x9c C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBResourceMaxFrequency
+                0x00000000       0x3c C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBMaxJunctionTemperature
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBMinJunctionTemperature
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBPackageType
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBDeviceRevision
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.CHIPDBSecurityLevel
+                0x00000000       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text.ChipDBInterruptNum
+                0x00000000       0x48 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .data.gChipDBEnabled
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .text.enableModule
+                0x00000000       0x50 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .text.CHIPDBSpeedGradeProcID
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .text.CHIPDBIsSecureModule
+                0x00000000       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .rodata.gChipDBResourceTable
+                0x00000000       0x18 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .rodata.gChipDBSpeedGrade
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .data.gChipDBInterruptTables
+                0x00000000      0x170 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER0InterruptMap
+                0x00000000        0x2 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER2InterruptMap
+                0x00000000        0x2 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER3InterruptMap
+                0x00000000        0x2 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER4InterruptMap
+                0x00000000        0x2 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER5InterruptMap
+                0x00000000        0x2 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER6InterruptMap
+                0x00000000        0x2 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBDMTIMER7InterruptMap
+                0x00000000        0x2 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBUSB0InterruptMap
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .rodata.gChipDBUSB1InterruptMap
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .comment       0x00000000       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .ARM.attributes
+                0x00000000       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_interrupt.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_stdioInit2
+                0x00000000       0x8c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_puts
+                0x00000000       0x74 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_gets
+                0x00000000       0xb0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_putNum
+                0x00000000       0xb0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_putHexNum
+                0x00000000       0xac C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_getNum
+                0x00000000       0xc8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_getHexNum
+                0x00000000      0x1a8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_putc
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_getc
+                0x00000000       0x44 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_scanFmt
+                0x00000000      0x760 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_stdioDeInit
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .text.UART_ASCIIUtils_charToDigit
+                0x00000000       0x7c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .comment       0x00000000       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .ARM.attributes
+                0x00000000       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_ascii_utils.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_close
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_control
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_read
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_read2
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_readPolling
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_readCancel
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_write2
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_writeCancel
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text.UART_transactionInit
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .rodata.UART_defaultTransaction
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .text.UART_socGetInitCfg
+                0x00000000       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .text.UART_socSetInitCfg
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .text.UART_socGetFwCfg
+                0x00000000       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .text.UART_socSetFwCfg
+                0x00000000       0x3c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .text.UART_socInitFwCfg
+                0x00000000       0x94 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .rodata.uartFwMemPtr
+                0x00000000       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .shdata        0x00000000      0x198 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_control_v2
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_v2_putInstCharTxBuffTimeout
+                0x00000000       0x84 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_writePolling_v2
+                0x00000000       0xd4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_readPolling_v2
+                0x00000000      0x174 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_init_v2
+                0x00000000       0x94 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_v2_enableInstTxInt.constprop.6
+                0x00000000       0x50 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_v2_disableInstTxInt.constprop.8
+                0x00000000       0x50 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_v2_cancelInstWriteNoCallback
+                0x00000000       0x98 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_writeCancel_v2
+                0x00000000       0x48 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_write2_v2
+                0x00000000      0x30c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_write_v2
+                0x00000000       0x90 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_v2_disableInstRxInt.constprop.9
+                0x00000000       0x50 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_close_v2
+                0x00000000      0x2e4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_v2_cancelInstReadNoCallback
+                0x00000000       0xb8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_open_v2
+                0x00000000      0xae0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_v2_callback
+                0x00000000       0xd8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_read2_v2
+                0x00000000      0x434 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_read_v2
+                0x00000000       0x90 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_readCancel_v2
+                0x00000000       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text.UART_v2_hwiIntFxn
+                0x00000000      0x62c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .rodata        0x00000000      0x16c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss.gDisableInstRxIntErrCnt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss.gDisableInstTxIntErrCnt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss.gRxIntCnt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss.gRxIntRdSzNZCnt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss.gRxIntRdSzZCnt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss.gTxDataSentFlagErrCnt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss.gTxIntCnt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss.gTxIntWrSzNZCnt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss.gTxIntWrSzZCnt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .bss.gUartCurrentICSSModePruLockInit
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .data.gUartCurrentICSSMode
+                0x00000000       0xc0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .rodata.CSWTCH.82
+                0x00000000        0x5 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .rodata.CSWTCH.84
+                0x00000000        0x3 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .rodata.UART_open_v2.str1.4
+                0x00000000        0xd C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .rodata.UART_v2_FxnTable
+                0x00000000       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .rodata.UART_v2_enableInstTxInt.constprop.6.str1.4
+                0x00000000       0x11 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .comment       0x00000000       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .ARM.attributes
+                0x00000000       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v2.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+ .text.GPIO_clearInt
+                0x00000000       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+ .text.GPIO_disableInt
+                0x00000000       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+ .text.GPIO_enableInt
+                0x00000000       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+ .text.GPIO_setConfig
+                0x00000000       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+ .text.GPIO_toggle
+                0x00000000       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_soc.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_soc.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_soc.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .text.I2C_control
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .rodata.I2C_defaultParams
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .text.I2C_socGetInitCfg
+                0x00000000       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .text.I2C_socSetInitCfg
+                0x00000000       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .text.I2C_socGetFwCfg
+                0x00000000       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .text.I2C_socSetFwCfg
+                0x00000000       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .text.I2C_socInitFwCfg
+                0x00000000       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .rodata.i2cFwMemPtr
+                0x00000000       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .shdata        0x00000000       0x3c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_setupPinMux
+                0x00000000       0x70 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_pollIrqSts
+                0x00000000       0xac C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_close_v2
+                0x00000000      0x1ac C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_hwiFxn
+                0x00000000      0x17c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_init_v2
+                0x00000000       0x74 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_recoverBus.isra.3
+                0x00000000      0x37c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_transfer_Callback_v2
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_enableModule
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_disableModule
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_enableMasterMode
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_enableSlaveMode
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_7bitAddressMode
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_10bitAddressMode
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_enableStartBit
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_disableStartBit
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_enableStopBit
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_disableStopBit
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_sendCmd2PRU
+                0x00000000       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_readResp2PRU
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_clearResp2PRU
+                0x00000000       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_setSlaveAddress
+                0x00000000       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_putSmbusCmdCode
+                0x00000000       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_setDataCount
+                0x00000000       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_getDataCount
+                0x00000000       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_putData
+                0x00000000       0x50 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_getData
+                0x00000000       0x50 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_waitForCompletion
+                0x00000000       0x6c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_transfer_v2
+                0x00000000      0xfbc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_open_v2
+                0x00000000      0x89c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_control
+                0x00000000      0x1cc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_sendNack
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_sendAck
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_enableBurstMode
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_disableBurstMode
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_writeInstId
+                0x00000000       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text.I2C_v2_pruGPIOMuxConfig
+                0x00000000       0x44 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .rodata        0x00000000      0x16c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .data.CurrentICSSMode
+                0x00000000       0xf0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .rodata.CSWTCH.65
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .rodata.I2C_v2_FxnTable
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .comment       0x00000000       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .ARM.attributes
+                0x00000000       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v2.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOModuleReset
+                0x00000000       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOModuleDisable
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIODirModeGet
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOPinRead
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOMultiplePinsWrite
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOMultiplePinsRead
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOIntTypeGet
+                0x00000000       0x68 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOPinIntStatus
+                0x00000000       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOTriggerPinInt
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOWakeupGlobalEnable
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOWakeupGlobalDisable
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOPinIntWakeUpEnable
+                0x00000000       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOPinIntWakeUpDisable
+                0x00000000       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOAutoIdleModeControl
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOIdleModeConfigure
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIOGatingRatioConfigure
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIODebounceFuncControl
+                0x00000000       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIODebounceTimeConfig
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text.GPIORevisionInfoGet
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CMasterBusy
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CMasterErr
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CSlaveIntStatus
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CMasterIntStatusEx
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CSlaveIntStatusEx
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CSlaveIntRawStatusEx
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CMasterIntRawStatusClearEx
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CSlaveIntRawStatusClearEx
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CMasterSlaveAddrGet
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CFIFOThresholdConfig
+                0x00000000       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CDMATxEventEnable
+                0x00000000       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CDMARxEventEnable
+                0x00000000       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CDMATxEventDisable
+                0x00000000       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CDMARxEventDisable
+                0x00000000       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CActiveOwnAddressGet
+                0x00000000       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CClockBlockingControl
+                0x00000000       0x6c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CAutoIdleEnable
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CGlobalWakeUpEnable
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CGlobalWakeUpDisable
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CIdleModeSelect
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CClockActivitySelect
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CWakeUpEnable
+                0x00000000       0x60 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CWakeUpDisable
+                0x00000000       0x60 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CSlaveDataPut
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text.I2CFlushFifo
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTDivisorLatchEnable
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRegConfigModeEnable
+                0x00000000       0x54 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRegConfModeRestore
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTParityModeSet
+                0x00000000       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTParityModeGet
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTDMAEnable
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTDMADisable
+                0x00000000       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOCtrlRegWrite
+                0x00000000       0x98 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTEnhanFuncEnable
+                0x00000000       0x44 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTEnhanFuncBitValRestore
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTSubConfigMSRSPRModeEn
+                0x00000000       0xac C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTSubConfigXOFFModeEn
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTSpaceAvail
+                0x00000000       0x3c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTCharsAvail
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTCharGetNonBlocking
+                0x00000000       0x50 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTCharGet
+                0x00000000       0x48 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTCharGetTimeout
+                0x00000000       0x7c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOCharGet
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOWrite
+                0x00000000       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRxErrorGet
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTIntPendingStatusGet
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOEnableStatusGet
+                0x00000000       0x3c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTAutoRTSAutoCTSControl
+                0x00000000       0x50 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTSpecialCharDetectControl
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTSoftwareFlowCtrlOptSet
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTPulseShapingControl
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModuleReset
+                0x00000000       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTIdleModeConfigure
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTWakeUpControl
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTAutoIdleModeControl
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFlowCtrlTrigLvlConfig
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTXON1XOFF1ValProgram
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTXON2XOFF2ValProgram
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTXONAnyFeatureControl
+                0x00000000       0x74 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemControlSet
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemControlClear
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemControlReset
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemStatusGet
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemStatusChangeCheck
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTResumeOperation
+                0x00000000       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTWakeUpEventsEnable
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTWakeUpEventsDisable
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOTrigLvlGranControl
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTDSRInterruptControl
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTTxEmptyIntControl
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRXCTSDSRWakeUpConfigure
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRXCTSDSRTransitionStatusGet
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTDMACounterResetControl
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTTxFIFOLevelGet
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTRxFIFOLevelGet
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTAutobaudParityGet
+                0x00000000       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTAutobaudWordLenGet
+                0x00000000       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTAutobaudSpeedGet
+                0x00000000       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTScratchPadRegWrite
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTScratchPadRegRead
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModuleVersionNumberGet
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTTxDMAThresholdControl
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTTxDMAThresholdValConfig
+                0x00000000       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTFIFOLevelSet
+                0x00000000       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTModemControlGet
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text.UARTCharGetTimeout2
+                0x00000000       0x84 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .text          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00000000      0x110 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x34 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memset.o)
+ .text.memset   0x00000000      0x114 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x30 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .text.HwiP_clearInterrupt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .text.HwiP_post
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .text.Osal_setHwAttrs
+                0x00000000       0xf4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .text.Osal_getHwAttrs
+                0x00000000       0x50 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .text.Osal_getStaticMemStatus
+                0x00000000       0xb0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .bss.gOsalTimerAllocCnt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .bss.gOsalTimerPeak
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .text.SemaphoreP_compileTime_SizeChk
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .text.SemaphoreP_getCount
+                0x00000000       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .text.Osal_ClearInterrupt
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.osalArch_TimestampCcntAutoRefresh
+                0x00000000       0x48 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.osalArch_TimestampInit.part.0
+                0x00000000       0x6c C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.OsalArch_compileTime_SizeChk
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.CONSOLEUtilsPuts
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.OsalArch_clearInterrupt
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.osalArch_TimeStampGetFreqKHz
+                0x00000000       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.osalArch_TimestampInit
+                0x00000000       0x18 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.osalArch_TimestampGet64
+                0x00000000       0x94 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .bss.gTimeStamp
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .data.gTimestampFirstTime
+                0x00000000        0x1 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .text.TimerP_dmTimerStub
+                0x00000000       0x64 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .text.TimerP_Params_init
+                0x00000000       0x70 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .text.TimerP_delete
+                0x00000000       0xa4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .text.TimerP_stop
+                0x00000000       0x74 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .text.TimerP_dmTimerSetMicroSeconds
+                0x00000000      0x13c C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .text.TimerP_start
+                0x00000000      0x110 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .text.TimerP_create
+                0x00000000      0x64c C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .text.TimerP_setPeriodMicroSecs
+                0x00000000       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .text.TimerP_getTimeInUsecs
+                0x00000000       0x6c C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .bss.gTimerAnyMask
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .bss.gTimerInitDone
+                0x00000000        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .rodata.TimerP_Params_init.str1.4
+                0x00000000       0x22 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .comment       0x00000000       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .ARM.attributes
+                0x00000000       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ COMMON         0x00000000      0x210 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_nonos.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ .text          0x00000000       0x3c C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimestampProvider_asm.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimestampProvider_asm.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimestampProvider_asm.oa8fg)
+ .ARM.attributes
+                0x00000000       0x29 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimestampProvider_asm.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_default.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_default.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_default.oa8fg)
+ .text.TimerP_getDefaultFreqLo
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_default.oa8fg)
+ .text.TimerP_getDefaultFreqHi
+                0x00000000        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_default.oa8fg)
+ .data.gDmTimerPInfoTbl
+                0x00000000       0x60 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_default.oa8fg)
+ .rodata.str1.4
+                0x00000000       0x45 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_default.oa8fg)
+ .comment       0x00000000       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_default.oa8fg)
+ .ARM.attributes
+                0x00000000       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(TimerP_default.oa8fg)
+ .text          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .data          0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .bss           0x00000000        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERModeConfigureGet
+                0x00000000       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERPreScalerClkEnable
+                0x00000000       0xa8 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERPreScalerClkDisable
+                0x00000000       0x54 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERReloadGet
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERGPOConfigureGet
+                0x00000000       0x5c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERGPOConfigure
+                0x00000000       0xa0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERCompareSet
+                0x00000000       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERCompareGet
+                0x00000000       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntRawStatusSet
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntRawStatusGet
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntStatusGet
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntStatusClear
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntEnable
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERWakeEnable
+                0x00000000       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERWakeDisable
+                0x00000000       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTriggerSet
+                0x00000000       0x50 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIntEnableGet
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERResetConfigure
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERResetConfigureGet
+                0x00000000       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERReset
+                0x00000000       0x74 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERContextSave
+                0x00000000       0x84 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERContextRestore
+                0x00000000      0x108 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERPostedModeConfig
+                0x00000000       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERPostedModeConfigGet
+                0x00000000       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERReadModeConfig
+                0x00000000       0x3c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERReadModeConfigGet
+                0x00000000       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERWritePostedStatusGet
+                0x00000000        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIdleModeConfigure
+                0x00000000       0x44 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERIdleModeConfigureGet
+                0x00000000       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMEREmuModeConfigure
+                0x00000000       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMEREmuModeConfigureGet
+                0x00000000       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTPIRSet
+                0x00000000       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTPIRGet
+                0x00000000       0x54 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTNIRSet
+                0x00000000       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTNIRGet
+                0x00000000       0x58 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTCVRSet
+                0x00000000       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTCVRGet
+                0x00000000       0x54 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTOCRSet
+                0x00000000       0x5c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTOCRGet
+                0x00000000       0x58 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTOWRGet
+                0x00000000       0x3c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERTOWRSet
+                0x00000000       0x5c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .text.TIMERGetStaticRegs
+                0x00000000       0x88 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000       0xd4 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x00000000       0x44 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_ldivmod.o)
+ .text          0x00000000       0x3c c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000      0x16c c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x48 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000       0x28 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzdi2.o)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzdi2.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzdi2.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzdi2.o)
+ .text          0x00000000       0x48 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzsi2.o)
+ .data          0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzsi2.o)
+ .bss           0x00000000        0x0 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000000       0x18 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_clzsi2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+DDR0             0x80000000         0x40000000
+DDR0_MEMTEST     0x80000000         0x00010000
+DIAG_MEM         0x402f0400         0x0001fc00         xrwl
+SBL_MEM          0x402f0400         0x0001fc00         xrwl
+OCMC_RAM         0x40300000         0x00010000         xrwl
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_entry.ao
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+
+.startcode      0x80000000      0x154
+                0x80000000                . = ALIGN (0x4)
+ *diag_entry.ao(.text)
+ .text          0x80000000      0x154 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_entry.ao
+                0x80000000                Entry
+                0x800000bc                SVC_Handler
+                0x800000e4                IRQHandler
+                0x80000124                FIQHandler
+                0x80000128                AbortHandler
+                0x80000128                UndefInstHandler
+
+.text           0x80000154     0x7f38
+                0x80000154                . = ALIGN (0x4)
+ *(.text*)
+ .text          0x80000154      0x370 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+                0x80000154                BoardDiag_BtnPwr
+                0x8000019c                BoardDiag_KeyPressCheck
+                0x80000208                BoardDiag_ButtonTest
+                0x800002d0                BoardDiag_GetKeyPadInfo
+ .text.startup  0x800004c4       0x7c C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+                0x800004c4                main
+ .text          0x80000540      0x2bc C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+                0x80000558                INTCInit
+                0x800005d8                INTCConfigIntr
+                0x8000066c                INTCEnableIntr
+                0x800006a4                INTCDisableIntr
+                0x800006dc                INTCEnableCpuIntr
+                0x80000704                INTCDisableCpuIntr
+                0x80000708                INTCClearIntr
+                0x80000738                INTCTriggerSWIntr
+                0x80000764                INTCSaveContext
+                0x8000076c                INTCRestoreContext
+                0x80000774                INTCCommonIntrHandler
+ .text          0x800007fc       0x90 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+                0x800007fc                CPUSwitchToPrivilegedMode
+                0x80000804                CPUSwitchToUserMode
+                0x80000818                CPUAbortHandler
+                0x8000081c                CPUIntrStatus
+                0x80000828                CPUIntrDisable
+                0x80000860                CPUIntrEnable
+ .text          0x8000088c       0x6c C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+                0x8000088c                VectorBaseAddrSet
+                0x8000089c                CopyVectorTable
+                0x800008e0                start_boot
+                0x800008f0                DIAG_init
+ .text.strncmp  0x800008f8      0x100 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-strncmp.o)
+                0x800008f8                strncmp
+ .text.Board_moduleClockInit
+                0x800009f8      0x134 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+                0x800009f8                Board_moduleClockInit
+ .text.Board_init
+                0x80000b2c       0x58 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+                0x80000b2c                Board_init
+ .text.Board_getIDInfo
+                0x80000b84      0x15c C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_info.oa8fg)
+                0x80000b84                Board_getIDInfo
+ .text.Board_uartStdioInit
+                0x80000ce0       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_lld_init.oa8fg)
+                0x80000ce0                Board_uartStdioInit
+ .text.Board_internalInitI2C
+                0x80000cfc       0x6c C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_lld_init.oa8fg)
+                0x80000cfc                Board_internalInitI2C
+ .text.PINMUXModuleConfig
+                0x80000d68      0x128 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_pinmux.oa8fg)
+                0x80000d68                PINMUXModuleConfig
+ .text.Board_pinmuxConfig
+                0x80000e90       0xa4 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_pinmux.oa8fg)
+                0x80000e90                Board_pinmuxConfig
+ .text.CHIPDBBaseAddress
+                0x80000f34       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+                0x80000f34                CHIPDBBaseAddress
+ .text.PRCMModuleEnable
+                0x80000f6c     0x11ec C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+                0x80000f6c                PRCMModuleEnable
+ .text.uart_console_putc
+                0x80002158       0x58 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_stdioInit
+                0x800021b0       0x90 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                0x800021b0                UART_stdioInit
+ .text.UART_dataWrite
+                0x80002240       0x5c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                0x80002240                UART_dataWrite
+ .text.UART_convertVal.constprop.0
+                0x8000229c      0x16c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .text.UART_printf
+                0x80002408      0x2d4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                0x80002408                UART_printf
+ .text.UART_init
+                0x800026dc       0x6c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x800026dc                UART_init
+ .text.UART_open
+                0x80002748       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x80002748                UART_open
+ .text.UART_Params_init
+                0x80002768       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x80002768                UART_Params_init
+ .text.UART_write
+                0x80002794        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x80002794                UART_write
+ .text.UART_writePolling
+                0x800027a0        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x800027a0                UART_writePolling
+ .text.UART_init_v1
+                0x800027ac       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_control_v1
+                0x800027bc        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_open_v1
+                0x800027c4      0x31c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_close_v1
+                0x80002ae0       0xb8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_writeCancelNoCB.isra.0
+                0x80002b98       0x78 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_writeCancel_v1
+                0x80002c10       0x48 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_readCancelNoCB.isra.2
+                0x80002c58       0x8c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_charPut_v1.isra.4
+                0x80002ce4       0x5c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_writePolling_v1
+                0x80002d40       0xc0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_write2_v1
+                0x80002e00      0x264 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_write_v1
+                0x80003064       0x7c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_readPolling_v1
+                0x800030e0      0x12c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_v1_callback
+                0x8000320c       0x98 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+                0x8000320c                UART_v1_callback
+ .text.UART_read2_v1
+                0x800032a4      0x274 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_read_v1
+                0x80003518       0x7c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_readCancel_v1
+                0x80003594       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.UART_v1_hwiIntFxn
+                0x800035c8      0x544 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .text.GPIO_init
+                0x80003b0c       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+                0x80003b0c                GPIO_init
+ .text.GPIO_read
+                0x80003b30       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+                0x80003b30                GPIO_read
+ .text.GPIO_setCallback
+                0x80003b5c       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+                0x80003b5c                GPIO_setCallback
+ .text.GPIO_write
+                0x80003b80       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+                0x80003b80                GPIO_write
+ .text.GPIO_toggle_v1
+                0x80003ba4       0xc8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text.GPIO_setCallback_v1
+                0x80003c6c       0x98 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text.GPIO_write_v1
+                0x80003d04       0xc4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text.GPIO_setConfig_v1
+                0x80003dc8      0x220 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text.GPIO_clearInt_v1
+                0x80003fe8       0x94 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text.GPIO_v1_hwiFxn
+                0x8000407c       0xbc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text.GPIO_enableInt_v1
+                0x80004138       0xa8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text.GPIO_disableInt_v1
+                0x800041e0       0xa8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text.GPIO_read_v1
+                0x80004288       0x98 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text.GPIO_init_v1
+                0x80004320      0x164 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .text.I2C_close
+                0x80004484       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x80004484                I2C_close
+ .text.I2C_init
+                0x80004498       0x6c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x80004498                I2C_init
+ .text.I2C_open
+                0x80004504       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x80004504                I2C_open
+ .text.I2C_Params_init
+                0x80004524       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x80004524                I2C_Params_init
+ .text.I2C_transfer
+                0x80004538       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x80004538                I2C_transfer
+ .text.I2C_transactionInit
+                0x80004564       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x80004564                I2C_transactionInit
+ .text.I2C_init_v1
+                0x80004590       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_close_v1
+                0x800045a4       0x98 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_open_v1
+                0x8000463c      0x224 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_transfer_Callback_v1
+                0x80004860       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_waitForPin.isra.2
+                0x80004874       0xcc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_primeTransfer_v1
+                0x80004940      0x524 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_complete_curr_transfer
+                0x80004e64       0x8c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_hwiFxn
+                0x80004ef0      0x528 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_resetCtrl
+                0x80005418      0x164 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_recoverBus
+                0x8000557c      0x11c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_transfer_v1
+                0x80005698      0x18c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_waitForBb.constprop.5
+                0x80005824       0xbc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.I2C_v1_control
+                0x800058e0      0x238 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .text.GPIOModuleEnable
+                0x80005b18       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005b18                GPIOModuleEnable
+ .text.GPIODirModeSet
+                0x80005b2c       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005b2c                GPIODirModeSet
+ .text.GPIOPinWrite
+                0x80005b54       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005b54                GPIOPinWrite
+ .text.GPIOPinRead2
+                0x80005b70       0x18 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005b70                GPIOPinRead2
+ .text.GPIOPinIntEnable
+                0x80005b88       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005b88                GPIOPinIntEnable
+ .text.GPIOPinIntDisable
+                0x80005ba4       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005ba4                GPIOPinIntDisable
+ .text.GPIOIntTypeSet
+                0x80005bc0      0x188 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005bc0                GPIOIntTypeSet
+ .text.GPIOPinIntClear
+                0x80005d48       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005d48                GPIOPinIntClear
+ .text.GPIORawIntStatus
+                0x80005d64       0x18 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005d64                GPIORawIntStatus
+ .text.GPIOIntrClearMask
+                0x80005d7c       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005d7c                GPIOIntrClearMask
+ .text.GPIOPinOutValueRead
+                0x80005d90       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+                0x80005d90                GPIOPinOutValueRead
+ .text.I2CMasterInitExpClk
+                0x80005da4       0xd0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005da4                I2CMasterInitExpClk
+ .text.I2CMasterEnable
+                0x80005e74       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005e74                I2CMasterEnable
+ .text.I2CMasterEnableFreeRun
+                0x80005e90       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005e90                I2CMasterEnableFreeRun
+ .text.I2CMasterSetSysTest
+                0x80005eac        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005eac                I2CMasterSetSysTest
+ .text.I2CMasterGetSysTest
+                0x80005eb8        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005eb8                I2CMasterGetSysTest
+ .text.I2CMasterDisable
+                0x80005ec4       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005ec4                I2CMasterDisable
+ .text.I2CMasterBusBusy
+                0x80005ed8       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005ed8                I2CMasterBusBusy
+ .text.I2CMasterControl
+                0x80005ee8       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005ee8                I2CMasterControl
+ .text.I2CMasterStart
+                0x80005ef8       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005ef8                I2CMasterStart
+ .text.I2CMasterStop
+                0x80005f14       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005f14                I2CMasterStop
+ .text.I2CMasterIntEnableEx
+                0x80005f30       0x18 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005f30                I2CMasterIntEnableEx
+ .text.I2CSlaveIntEnableEx
+                0x80005f48        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005f48                I2CSlaveIntEnableEx
+ .text.I2CMasterIntDisableEx
+                0x80005f4c        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005f4c                I2CMasterIntDisableEx
+ .text.I2CSlaveIntDisableEx
+                0x80005f58        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005f58                I2CSlaveIntDisableEx
+ .text.I2CMasterIntStatus
+                0x80005f64        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005f64                I2CMasterIntStatus
+ .text.I2CMasterIntRawStatus
+                0x80005f70        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005f70                I2CMasterIntRawStatus
+ .text.I2CSlaveIntRawStatus
+                0x80005f7c        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005f7c                I2CSlaveIntRawStatus
+ .text.I2CMasterIntRawStatusEx
+                0x80005f88       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005f88                I2CMasterIntRawStatusEx
+ .text.I2CMasterIntClearEx
+                0x80005f98        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005f98                I2CMasterIntClearEx
+ .text.I2CSlaveIntClearEx
+                0x80005fa4        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005fa4                I2CSlaveIntClearEx
+ .text.I2CGetEnabledIntStatus
+                0x80005fb0       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005fb0                I2CGetEnabledIntStatus
+ .text.I2CMasterSlaveAddrSet
+                0x80005fc0        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005fc0                I2CMasterSlaveAddrSet
+ .text.I2CSetDataCount
+                0x80005fcc        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005fcc                I2CSetDataCount
+ .text.I2CDataCountGet
+                0x80005fd8        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005fd8                I2CDataCountGet
+ .text.I2CFIFOClear
+                0x80005fe4       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80005fe4                I2CFIFOClear
+ .text.I2CBufferStatus
+                0x80006008       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80006008                I2CBufferStatus
+ .text.I2COwnAddressSet
+                0x80006054       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80006054                I2COwnAddressSet
+ .text.I2CSoftReset
+                0x800060a0       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800060a0                I2CSoftReset
+ .text.I2CAutoIdleDisable
+                0x800060bc       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800060bc                I2CAutoIdleDisable
+ .text.I2CSystemStatusGet
+                0x800060d0       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800060d0                I2CSystemStatusGet
+ .text.I2CMasterDataPut
+                0x800060e0        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800060e0                I2CMasterDataPut
+ .text.I2CMasterDataGet
+                0x800060ec       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800060ec                I2CMasterDataGet
+ .text.I2CSlaveDataGet
+                0x800060fc       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x800060fc                I2CSlaveDataGet
+ .text.I2CSyscInit
+                0x8000610c        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x8000610c                I2CSyscInit
+ .text.I2CConfig
+                0x80006118        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+                0x80006118                I2CConfig
+ .text.UARTOperatingModeSelect
+                0x80006124       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006124                UARTOperatingModeSelect
+ .text.UARTDivisorValCompute
+                0x8000614c       0x6c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x8000614c                UARTDivisorValCompute
+ .text.UARTDivisorLatchWrite
+                0x800061b8      0x1e4 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x800061b8                UARTDivisorLatchWrite
+ .text.UARTDivisorLatchDisable
+                0x8000639c       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x8000639c                UARTDivisorLatchDisable
+ .text.UARTBreakCtl
+                0x800063b0       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x800063b0                UARTBreakCtl
+ .text.UARTLineCharacConfig
+                0x800063cc       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x800063cc                UARTLineCharacConfig
+ .text.UARTFIFORegisterWrite
+                0x800063f4       0xbc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x800063f4                UARTFIFORegisterWrite
+ .text.UARTSubConfigTCRTLRModeEn
+                0x800064b0       0xb4 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x800064b0                UARTSubConfigTCRTLRModeEn
+ .text.UARTTCRTLRBitValRestore
+                0x80006564       0xa8 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006564                UARTTCRTLRBitValRestore
+ .text.UARTFIFOConfig
+                0x8000660c      0x288 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x8000660c                UARTFIFOConfig
+ .text.UARTIntEnable
+                0x80006894       0xc0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006894                UARTIntEnable
+ .text.UARTIntDisable
+                0x80006954       0xcc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006954                UARTIntDisable
+ .text.UARTInt2Enable
+                0x80006a20       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006a20                UARTInt2Enable
+ .text.UARTInt2Disable
+                0x80006a3c       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006a3c                UARTInt2Disable
+ .text.UARTReadStatus
+                0x80006a58       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006a58                UARTReadStatus
+ .text.UARTCharPutNonBlocking
+                0x80006a8c       0x48 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006a8c                UARTCharPutNonBlocking
+ .text.UARTCharPut
+                0x80006ad4       0x48 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006ad4                UARTCharPut
+ .text.UARTFIFOCharPut
+                0x80006b1c        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006b1c                UARTFIFOCharPut
+ .text.UARTIntIdentityGet
+                0x80006b28       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006b28                UARTIntIdentityGet
+ .text.UARTInt2StatusGet
+                0x80006b5c       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006b5c                UARTInt2StatusGet
+ .text.UARTLoopbackModeControl
+                0x80006b6c       0x1c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006b6c                UARTLoopbackModeControl
+ .text.UARTTxFIFOFullStatusGet
+                0x80006b88       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006b88                UARTTxFIFOFullStatusGet
+ .text.UARTIsTransmitterEmpty
+                0x80006b98       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006b98                UARTIsTransmitterEmpty
+ .text.UARTCharGetNonBlocking2
+                0x80006bd8       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+                0x80006bd8                UARTCharGetNonBlocking2
+ .text.HwiP_create
+                0x80006c24       0x44 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x80006c24                HwiP_create
+ .text.HwiP_delete
+                0x80006c68       0x70 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x80006c68                HwiP_delete
+ .text.HwiP_disable
+                0x80006cd8        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x80006cd8                HwiP_disable
+ .text.HwiP_disableInterrupt
+                0x80006cdc        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x80006cdc                HwiP_disableInterrupt
+ .text.HwiP_enableInterrupt
+                0x80006ce0        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x80006ce0                HwiP_enableInterrupt
+ .text.HwiP_Params_init
+                0x80006ce4       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x80006ce4                HwiP_Params_init
+ .text.HwiP_restore
+                0x80006d08        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+                0x80006d08                HwiP_restore
+ .text.Osal_DebugP_assert
+                0x80006d0c       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x80006d0c                Osal_DebugP_assert
+ .text.Osal_getThreadType
+                0x80006d2c        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x80006d2c                Osal_getThreadType
+ .text.SemaphoreP_create
+                0x80006d34      0x150 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x80006d34                SemaphoreP_create
+ .text.SemaphoreP_delete
+                0x80006e84       0x74 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x80006e84                SemaphoreP_delete
+ .text.SemaphoreP_Params_init
+                0x80006ef8       0x48 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x80006ef8                SemaphoreP_Params_init
+ .text.SemaphoreP_pend
+                0x80006f40       0xa4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x80006f40                SemaphoreP_pend
+ .text.SemaphoreP_post
+                0x80006fe4       0x68 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x80006fe4                SemaphoreP_post
+ .text.Osal_RegisterInterrupt_initParams
+                0x8000704c       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                0x8000704c                Osal_RegisterInterrupt_initParams
+ .text.Osal_RegisterInterrupt
+                0x8000708c       0x7c C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                0x8000708c                Osal_RegisterInterrupt
+ .text.Osal_DeleteInterrupt
+                0x80007108       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                0x80007108                Osal_DeleteInterrupt
+ .text.Osal_EnableInterrupt
+                0x80007128        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                0x80007128                Osal_EnableInterrupt
+ .text.Osal_DisableInterrupt
+                0x80007130        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+                0x80007130                Osal_DisableInterrupt
+ .text.OsalArch_ISRStub
+                0x80007138        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .text.OsalArch_enableInterrupt
+                0x80007144        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x80007144                OsalArch_enableInterrupt
+ .text.OsalArch_disableInterrupt
+                0x80007148        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x80007148                OsalArch_disableInterrupt
+ .text.OsalArch_globalDisableInterrupt
+                0x8000714c        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x8000714c                OsalArch_globalDisableInterrupt
+ .text.OsalArch_globalRestoreInterrupt
+                0x80007150        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x80007150                OsalArch_globalRestoreInterrupt
+ .text.OsalArch_HwiPCreate
+                0x80007154      0x1d8 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x80007154                OsalArch_HwiPCreate
+ .text.OsalArch_HwiPDelete
+                0x8000732c       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+                0x8000732c                OsalArch_HwiPDelete
+ .text.Delay_32kFClk
+                0x80007354       0xa0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+                0x80007354                Delay_32kFClk
+ .text.Osal_delay
+                0x800073f4       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+                0x800073f4                Osal_delay
+ .text.TIMEREnable
+                0x80007414       0x5c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x80007414                TIMEREnable
+ .text.TIMERDisable
+                0x80007470       0x54 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x80007470                TIMERDisable
+ .text.TIMERModeConfigure
+                0x800074c4       0xb0 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x800074c4                TIMERModeConfigure
+ .text.TIMERCounterSet
+                0x80007574       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x80007574                TIMERCounterSet
+ .text.TIMERCounterGet
+                0x800075c0       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x800075c0                TIMERCounterGet
+ .text.TIMERReloadSet
+                0x800075f8       0x4c C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x800075f8                TIMERReloadSet
+ .text.TIMERIntDisable
+                0x80007644       0x34 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+                0x80007644                TIMERIntDisable
+ .text          0x80007678      0x114 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivsi3.o)
+                0x80007678                __aeabi_uidiv
+                0x80007678                __udivsi3
+                0x8000776c                __aeabi_uidivmod
+ .text          0x8000778c      0x148 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_divsi3.o)
+                0x8000778c                __divsi3
+                0x8000778c                __aeabi_idiv
+                0x800078b4                __aeabi_idivmod
+ .text          0x800078d4        0x4 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_dvmd_tls.o)
+                0x800078d4                __aeabi_idiv0
+                0x800078d4                __aeabi_ldiv0
+ *(.rodata*)
+ .rodata.str1.4
+                0x800078d8      0x19a C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+ *fill*         0x80007a72        0x2 
+ .rodata        0x80007a74       0x38 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+ .rodata.gChipDBResourceIDMap
+                0x80007aac      0x244 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+                0x80007aac                gChipDBResourceIDMap
+ .rodata.gChipDBBaseAddrTable
+                0x80007cf0      0x200 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+                0x80007cf0                gChipDBBaseAddrTable
+ .rodata.UART_convertVal.constprop.0.str1.4
+                0x80007ef0       0x11 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ *fill*         0x80007f01        0x3 
+ .rodata.UART_printf.str1.4
+                0x80007f04        0x6 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                                  0xa (size before relaxing)
+ *fill*         0x80007f0a        0x2 
+ .rodata.UART_stdioInit2.str1.4
+                0x80007f0c        0xa C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ *fill*         0x80007f16        0x2 
+ .rodata.UART_defaultParams
+                0x80007f18       0x2c C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+                0x80007f18                UART_defaultParams
+ .rodata.CSWTCH.11
+                0x80007f44       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .rodata.CSWTCH.13
+                0x80007f54        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .rodata.UART_FxnTable_v1
+                0x80007f60       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+                0x80007f60                UART_FxnTable_v1
+ .rodata.UART_open_v1.str1.4
+                0x80007f90        0xe C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ *fill*         0x80007f9e        0x2 
+ .rodata.GPIO_config
+                0x80007fa0       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_soc.oa8fg)
+                0x80007fa0                GPIO_config
+ .rodata.CSWTCH.25
+                0x80007fc4       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .rodata.GPIO_FxnTable_v1
+                0x80007fd4       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+                0x80007fd4                GPIO_FxnTable_v1
+ .rodata.GPIO_toggle_v1.str1.4
+                0x80007ff8       0x11 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ *fill*         0x80008009        0x3 
+ .rodata.I2C_defaultTransaction
+                0x8000800c       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+                0x8000800c                I2C_defaultTransaction
+ .rodata.CSWTCH.36
+                0x80008034        0xc C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .rodata.I2C_v1_FxnTable
+                0x80008040       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+                0x80008040                I2C_v1_FxnTable
+ .rodata.HwiP_delete.str1.4
+                0x80008054       0x17 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ *fill*         0x8000806b        0x1 
+ .rodata.SemaphoreP_delete.str1.4
+                0x8000806c       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                                 0x1d (size before relaxing)
+
+.glue_7         0x8000808c        0x0
+ .glue_7        0x8000808c        0x0 linker stubs
+
+.glue_7t        0x8000808c        0x0
+ .glue_7t       0x8000808c        0x0 linker stubs
+
+.vfp11_veneer   0x8000808c        0x0
+ .vfp11_veneer  0x8000808c        0x0 linker stubs
+
+.v4_bx          0x8000808c        0x0
+ .v4_bx         0x8000808c        0x0 linker stubs
+
+.iplt           0x8000808c        0x0
+ .iplt          0x8000808c        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+
+.rel.dyn        0x8000808c        0x0
+ .rel.iplt      0x8000808c        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+
+.data           0x8000808c      0x6b8
+                0x8000808c                . = ALIGN (0x4)
+ *(.data*)
+ .data          0x8000808c       0x24 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+                0x8000808c                GPIO_v1_config
+                0x800080a0                gpioPinConfigs
+ .data.gCpsw0PinCfg
+                0x800080b0       0xd8 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gCpswPinCfg
+                0x80008188       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gEvmskPinmuxData
+                0x80008198       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+                0x80008198                gEvmskPinmuxData
+ .data.gGpio0PinCfg
+                0x800081c8       0x18 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gGpio1PinCfg
+                0x800081e0       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gGpio2PinCfg
+                0x80008208       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gGpioPinCfg
+                0x80008228       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gI2c0PinCfg
+                0x80008248       0x18 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gI2cPinCfg
+                0x80008260       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gMmcsd0PinCfg
+                0x80008270       0x40 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gMmcsdPinCfg
+                0x800082b0       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gUart0PinCfg
+                0x800082c0       0x18 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.gUartPinCfg
+                0x800082d8       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .data.UART_count
+                0x800082e8        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .data.UART_config
+                0x800082ec       0xa8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+                0x800082ec                UART_config
+ .data.uartInitCfg
+                0x80008394      0x1c8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+                0x80008394                uartInitCfg
+ .data.GPIO_v1_hwAttrs
+                0x8000855c       0xa0 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_soc.oa8fg)
+                0x8000855c                GPIO_v1_hwAttrs
+ .data.I2C_count
+                0x800085fc        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .data.I2C_config
+                0x80008600       0xa8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+                0x80008600                I2C_config
+ .data.i2cInitCfg
+                0x800086a8       0x78 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+                0x800086a8                i2cInitCfg
+ .data.Osal_DebugP_Assert_Val
+                0x80008720        0x1 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x80008720                Osal_DebugP_Assert_Val
+ *fill*         0x80008721        0x3 
+ .data.gOsal_HwAttrs
+                0x80008724       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x80008724                gOsal_HwAttrs
+
+.igot.plt       0x80008744        0x0
+ .igot.plt      0x80008744        0x0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+
+.bss            0x80008744      0xf54
+                0x80008744                . = ALIGN (0x4)
+                0x80008744                _bss_start = .
+ *(.bss*)
+ .bss           0x80008744       0x18 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+                0x80008744                buttonStart
+                0x8000874c                buttonOffset
+                0x80008754                powerOffset
+ .bss           0x8000875c       0x10 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+                0x8000875c                gpioCallbackFunctions
+ .bss           0x8000876c      0x408 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+ .bss.uart_stdio
+                0x80008b74        0x8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+                0x80008b74                uart_stdio
+ .bss.gpioCallbackInfo
+                0x80008b7c      0x100 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .bss.initCalled
+                0x80008c7c        0x1 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ *fill*         0x80008c7d        0x3 
+ .bss.portHwiCreatedBitMask
+                0x80008c80        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .bss.gOsalHwiAllocCnt
+                0x80008c84        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x80008c84                gOsalHwiAllocCnt
+ .bss.gOsalHwiPeak
+                0x80008c88        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x80008c88                gOsalHwiPeak
+ .bss.gOsalSemAllocCnt
+                0x80008c8c        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x80008c8c                gOsalSemAllocCnt
+ .bss.gOsalSemPeak
+                0x80008c90        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+                0x80008c90                gOsalSemPeak
+ .bss.hwiStructs
+                0x80008c94       0xa0 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .bss.gTimerFirstTime
+                0x80008d34        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ *(COMMON)
+ COMMON         0x80008d38       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+                0x80008d38                KeyScn
+ COMMON         0x80008d58        0x4 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+                0x80008d58                Board_obj
+ COMMON         0x80008d5c      0x6d8 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+                0x80008d5c                UartObjects
+                0x80009104                UartObjects2
+ COMMON         0x80009434      0x124 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+                0x80009434                I2cObjects2
+                0x80009480                I2cObjects
+ COMMON         0x80009558      0x140 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+                0x80009558                semStructs
+                0x80009698                _bss_end = .
+
+.heap           0x80009698    0x10000
+                0x80009698                . = ALIGN (0x4)
+                0x80009698                __end__ = .
+                0x80009698                end = __end__
+                0x80009698                __HeapBase = __end__
+ *(.heap*)
+                0x80019698                . = (. + 0x10000)
+ *fill*         0x80009698    0x10000 
+                0x80019698                __HeapLimit = .
+
+.stack          0x80019698     0x1000
+                0x80019698                . = ALIGN (0x8)
+                0x80019698                __StackLimit = .
+ *(.stack*)
+                0x8001a698                . = (. + 0x1000)
+ *fill*         0x80019698     0x1000 
+                0x8001a698                __StackTop = .
+                0x8001a698                _stack = __StackTop
+START GROUP
+LOAD c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a
+LOAD c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\librdimon.a
+LOAD c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libm.a
+LOAD c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libnosys.a
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg
+LOAD C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg
+END GROUP
+START GROUP
+LOAD c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a
+LOAD c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a
+END GROUP
+OUTPUT(C:/ti/pdk_am335x_1_0_17/packages/ti/board/bin/skAM335x/armv7/button_diagExample_skAM335x_armv7.out elf32-littlearm)
+
+.debug_info     0x00000000     0x3335
+ .debug_info    0x00000000      0xeab C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+ .debug_info    0x00000eab      0xbde C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+ .debug_info    0x00001a89       0x26 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_entry.ao
+ .debug_info    0x00001aaf      0xd94 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+ .debug_info    0x00002843      0x96e C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+ .debug_info    0x000031b1      0x184 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+
+.debug_abbrev   0x00000000      0xa6c
+ .debug_abbrev  0x00000000      0x2b6 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+ .debug_abbrev  0x000002b6      0x1b4 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+ .debug_abbrev  0x0000046a       0x14 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_entry.ao
+ .debug_abbrev  0x0000047e      0x303 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+ .debug_abbrev  0x00000781      0x1e8 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+ .debug_abbrev  0x00000969      0x103 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+
+.debug_loc      0x00000000      0x35d
+ .debug_loc     0x00000000      0x206 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+ .debug_loc     0x00000206      0x157 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+
+.debug_aranges  0x00000000       0xc0
+ .debug_aranges
+                0x00000000       0x28 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+ .debug_aranges
+                0x00000028       0x18 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+ .debug_aranges
+                0x00000040       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_entry.ao
+ .debug_aranges
+                0x00000060       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+ .debug_aranges
+                0x00000080       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+ .debug_aranges
+                0x000000a0       0x20 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+
+.debug_ranges   0x00000000       0x30
+ .debug_ranges  0x00000000       0x30 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+
+.debug_line     0x00000000      0xd03
+ .debug_line    0x00000000      0x3da C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+ .debug_line    0x000003da      0x247 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+ .debug_line    0x00000621       0xe0 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_entry.ao
+ .debug_line    0x00000701      0x2d4 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+ .debug_line    0x000009d5      0x1b9 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+ .debug_line    0x00000b8e      0x175 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+
+.debug_str      0x00000000      0xec0
+ .debug_str     0x00000000      0x90d C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+                                0x9f2 (size before relaxing)
+ .debug_str     0x0000090d       0xf4 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+                                0x8e4 (size before relaxing)
+ .debug_str     0x00000a01       0x8e C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_entry.ao
+ .debug_str     0x00000a8f      0x2da C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+                                0x85b (size before relaxing)
+ .debug_str     0x00000d69       0xae C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+                                0x63a (size before relaxing)
+ .debug_str     0x00000e17       0xa9 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+                                0x275 (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_info.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_lld_init.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_pinmux.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_soc.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ .comment       0x0000007f       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+
+.ARM.attributes
+                0x00000000       0x35
+ .ARM.attributes
+                0x00000000       0x35 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+ .ARM.attributes
+                0x00000035       0x35 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/GPIO_Button_config.o
+ .ARM.attributes
+                0x0000006a       0x21 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_entry.ao
+ .ARM.attributes
+                0x0000008b       0x35 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+ .ARM.attributes
+                0x000000c0       0x35 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+ .ARM.attributes
+                0x000000f5       0x35 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+ .ARM.attributes
+                0x0000012a       0x34 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x0000015e       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x.oa8fg)
+ .ARM.attributes
+                0x0000019b       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_info.oa8fg)
+ .ARM.attributes
+                0x000001d8       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_lld_init.oa8fg)
+ .ARM.attributes
+                0x00000215       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(skAM335x_pinmux.oa8fg)
+ .ARM.attributes
+                0x00000252       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_chipdb.oa8fg)
+ .ARM.attributes
+                0x0000028f       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_prcm.oa8fg)
+ .ARM.attributes
+                0x000002cc       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb.oa8fg)
+ .ARM.attributes
+                0x00000309       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(hw_am335x_chipdb_baseaddr.oa8fg)
+ .ARM.attributes
+                0x00000346       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/board/lib/skAM335x/a8/release/ti.board.aa8fg(am335x_evmsk_pinmux_data.oa8fg)
+ .ARM.attributes
+                0x00000383       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_stdio.oa8fg)
+ .ARM.attributes
+                0x000003c0       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_drv.oa8fg)
+ .ARM.attributes
+                0x000003fd       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_soc.oa8fg)
+ .ARM.attributes
+                0x0000043a       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/uart/lib/am335x/a8/release/ti.drv.uart.aa8fg(UART_v1.oa8fg)
+ .ARM.attributes
+                0x00000477       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_drv.oa8fg)
+ .ARM.attributes
+                0x000004b4       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_soc.oa8fg)
+ .ARM.attributes
+                0x000004f1       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/gpio/lib/am335x/a8/release/ti.drv.gpio.aa8fg(GPIO_v1.oa8fg)
+ .ARM.attributes
+                0x0000052e       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_drv.oa8fg)
+ .ARM.attributes
+                0x0000056b       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_soc.oa8fg)
+ .ARM.attributes
+                0x000005a8       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/drv/i2c/lib/am335x/a8/release/ti.drv.i2c.aa8fg(I2C_v1.oa8fg)
+ .ARM.attributes
+                0x000005e5       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(gpio_v2.oa8fg)
+ .ARM.attributes
+                0x00000622       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(i2c.oa8fg)
+ .ARM.attributes
+                0x0000065f       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(uart.oa8fg)
+ .ARM.attributes
+                0x0000069c       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(HwiP_nonos.oa8fg)
+ .ARM.attributes
+                0x000006d9       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Utils_nonos.oa8fg)
+ .ARM.attributes
+                0x00000716       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(SemaphoreP_nonos.oa8fg)
+ .ARM.attributes
+                0x00000753       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(RegisterIntr_nonos.oa8fg)
+ .ARM.attributes
+                0x00000790       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(Arch_util.oa8fg)
+ .ARM.attributes
+                0x000007cd       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/osal/lib/nonos/am335x/a8/release/ti.osal.aa8fg(delay.oa8fg)
+ .ARM.attributes
+                0x0000080a       0x3d C:/ti/pdk_am335x_1_0_17/packages/ti/csl/lib/am335x/a8/release/ti.csl.aa8fg(timer.oa8fg)
+ .ARM.attributes
+                0x00000847       0x18 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000085f       0x18 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000877       0x18 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x00000000      0x31c
+ .debug_frame   0x00000000       0xac C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/button_test.o
+ .debug_frame   0x000000ac      0x100 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/intc.o
+ .debug_frame   0x000001ac       0x80 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/cpu.o
+ .debug_frame   0x0000022c       0x64 C:/ti/pdk_am335x_1_0_17/packages/ti/board/obj/skAM335x/armv7/diag_common_cfg.o
+ .debug_frame   0x00000290       0x4c c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/hard\libc.a(lib_a-strncmp.o)
+ .debug_frame   0x000002dc       0x20 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000002fc       0x20 c:/ti/gcc-arm-none-eabi-7-2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/hard\libgcc.a(_divsi3.o)

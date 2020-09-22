@@ -1,0 +1,1 @@
+"./board_identification.obj" "./i2c.obj" "./main.obj" "./omap3_spi.obj" "./spi_flash.obj" "./stmicro.obj" "./super_startup.obj" "./util.obj" "./winbond.obj" "C:/ti/pdk_am335x_1_0_17/packages/ti/starterware/tools/flash_writer/src/spi-flash-writer_AM335x/linker.cmd" -llibc.a 

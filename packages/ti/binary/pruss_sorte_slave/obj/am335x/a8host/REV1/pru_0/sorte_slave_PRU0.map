@@ -1,0 +1,116 @@
+******************************************************************************
+                     PRU Linker PC v2.3.2                      
+******************************************************************************
+>> Linked Tue Sep 22 13:13:01 2020
+
+OUTPUT FILE NAME:   <C:/ti/pdk_am335x_1_0_17/packages/ti/binary/pruss_sorte_slave/obj/am335x/a8host/REV1/pru_0/sorte_slave_PRU0.out>
+ENTRY POINT SYMBOL: "firm_main"  address: 00000000
+
+
+MEMORY CONFIGURATION
+
+         name            origin    length      used     unused   attr    fill
+----------------------  --------  ---------  --------  --------  ----  --------
+PAGE 0:
+  PRUIMEM               00000000   00001000  00000d68  00000298  RWIX
+
+PAGE 1:
+  PRUDMEM               00000000   00001000  00000000  00001000  RWIX
+
+PAGE 2:
+  SHAREDMEM             00010000   00003000  00000000  00003000  RWIX
+
+
+SECTION ALLOCATION MAP
+
+ output                                  attributes/
+section   page    origin      length       input sections
+--------  ----  ----------  ----------   ----------------
+.text:firm_main 
+*          0    00000000    0000006c     
+                  00000000    0000006c     firm_main.opru (.text:firm_main)
+
+.text      0    0000006c    00000cfc     
+                  0000006c    00000410     event_handler.opru (.text)
+                  0000047c    000001e0     appl.opru (.text)
+                  0000065c    000001a4     state.opru (.text)
+                  00000800    00000198     ioex.opru (.text)
+                  00000998    0000016c     sync.opru (.text)
+                  00000b04    00000164     discovery.opru (.text)
+                  00000c68    000000c8     line_delay.opru (.text)
+                  00000d30    00000038     param.opru (.text)
+
+.init_array 
+*          1    00000000    00000000     UNINITIALIZED
+
+.cinit     1    00000000    00000000     UNINITIALIZED
+
+MODULE SUMMARY
+
+       Module               code   ro data   rw data
+       ------               ----   -------   -------
+    C:\ti\pdk_am335x_1_0_17\packages\ti\binary\pruss_sorte_slave\obj\am335x\a8host\REV1\pru_0\
+       event_handler.opru   1040   0         0      
+       appl.opru            480    0         0      
+       state.opru           420    0         0      
+       ioex.opru            408    0         0      
+       sync.opru            364    0         0      
+       discovery.opru       356    0         0      
+       line_delay.opru      200    0         0      
+       firm_main.opru       108    0         0      
+       param.opru           56     0         0      
+    +--+--------------------+------+---------+---------+
+       Total:               3432   0         0      
+                                                    
+    +--+--------------------+------+---------+---------+
+       Grand Total:         3432   0         0      
+
+
+GLOBAL SYMBOLS: SORTED ALPHABETICALLY BY Name 
+
+page  address   name                          
+----  -------   ----                          
+0     0000047c  FN1_APPL_CHECK_IEP_EVENT      
+0     00000984  FN1_IOEX_PROCESS_DATA         
+0     000008a0  FN1_IOEX_SETUP_TTS            
+0     00000944  FN1_IOEX_WAIT_FOR_TTS_COMPLETE
+0     00000a88  FN1_SYNC_HANDLER              
+0     00000b04  FN_DISCOVERY                  
+0     0000006c  FN_EVENT_HANDLER              
+0     00000800  FN_IOEX_MASTER                
+0     00000810  FN_IOEX_MASTER_PROCESS_FRAME  
+0     00000c68  FN_LINE_DELAY_MASTER          
+0     00000cf4  FN_LINE_DELAY_SLAVE           
+0     00000d30  FN_PARAM                      
+0     000007c0  FN_RESTART_FIRMWARE           
+0     0000065c  FN_STATE_MACHINE              
+0     00000998  FN_SYNC_STATE                 
+0     000007bc  STATE_MACHINE_RETURN          
+abs   ffffffff  __c_args__                    
+0     00000000  firm_main                     
+
+
+GLOBAL SYMBOLS: SORTED BY Symbol Address 
+
+page  address   name                          
+----  -------   ----                          
+0     00000000  firm_main                     
+0     0000006c  FN_EVENT_HANDLER              
+0     0000047c  FN1_APPL_CHECK_IEP_EVENT      
+0     0000065c  FN_STATE_MACHINE              
+0     000007bc  STATE_MACHINE_RETURN          
+0     000007c0  FN_RESTART_FIRMWARE           
+0     00000800  FN_IOEX_MASTER                
+0     00000810  FN_IOEX_MASTER_PROCESS_FRAME  
+0     000008a0  FN1_IOEX_SETUP_TTS            
+0     00000944  FN1_IOEX_WAIT_FOR_TTS_COMPLETE
+0     00000984  FN1_IOEX_PROCESS_DATA         
+0     00000998  FN_SYNC_STATE                 
+0     00000a88  FN1_SYNC_HANDLER              
+0     00000b04  FN_DISCOVERY                  
+0     00000c68  FN_LINE_DELAY_MASTER          
+0     00000cf4  FN_LINE_DELAY_SLAVE           
+0     00000d30  FN_PARAM                      
+abs   ffffffff  __c_args__                    
+
+[18 symbols]

@@ -1,0 +1,118 @@
+******************************************************************************
+                     PRU Linker PC v2.3.2                      
+******************************************************************************
+>> Linked Tue Sep 22 13:13:01 2020
+
+OUTPUT FILE NAME:   <C:/ti/pdk_am335x_1_0_17/packages/ti/binary/icss_i2c/obj/am335x/a8host/REV1/pru_0/icss_i2c_PRU0.out>
+ENTRY POINT SYMBOL: "I2C_scheduler"  address: 00000000
+
+
+MEMORY CONFIGURATION
+
+         name            origin    length      used     unused   attr    fill
+----------------------  --------  ---------  --------  --------  ----  --------
+PAGE 0:
+  PRUIMEM               00000000   00002000  000016f8  00000908  RWIX
+
+PAGE 1:
+  PRUDMEM               00000000   00001100  00000010  000010f0  RWIX
+  PRUDMEM_CTXT          00001100   00000f00  00000000  00000f00  RWIX
+  PRUDMEMO              00002000   00002000  00000000  00002000  RWIX
+
+PAGE 2:
+  SHAREDMEM             00010000   00003000  00000000  00003000  RWIX
+
+
+SECTION ALLOCATION MAP
+
+ output                                  attributes/
+section   page    origin      length       input sections
+--------  ----  ----------  ----------   ----------------
+.text:I2C_scheduler 
+*          0    00000000    000003f0     
+                  00000000    000003f0     I2C_scheduler.opru (.text:I2C_scheduler)
+
+.text      0    000003f0    00001308     
+                  000003f0    00000da4     I2C_protocol.opru (.text)
+                  00001194    00000564     I2C_smbus.opru (.text)
+
+.data      1    00000000    00000010     
+                  00000000    00000010     I2C_scheduler.opru (.data)
+
+.init_array 
+*          1    00000000    00000000     UNINITIALIZED
+
+.cinit     1    00000000    00000000     UNINITIALIZED
+
+MODULE SUMMARY
+
+       Module               code   ro data   rw data
+       ------               ----   -------   -------
+    C:\ti\pdk_am335x_1_0_17\packages\ti\binary\icss_i2c\obj\am335x\a8host\REV1\pru_0\
+       I2C_protocol.opru    3492   0         0      
+       I2C_smbus.opru       1380   0         0      
+       I2C_scheduler.opru   1008   0         16     
+    +--+--------------------+------+---------+---------+
+       Total:               5880   0         16     
+                                                    
+    +--+--------------------+------+---------+---------+
+       Grand Total:         5880   0         16     
+
+
+SEGMENT ATTRIBUTES
+
+    id tag      seg value
+    -- ---      --- -----
+     0 PHA_PAGE 1   1    
+
+
+GLOBAL SYMBOLS: SORTED ALPHABETICALLY BY Name 
+
+page  address   name                              
+----  -------   ----                              
+0     00001668  BLOCK_READ_MODE                   
+0     000015b4  BLOCK_WRITE_MODE                  
+0     00000eb4  CMD_CODE_SDA_BEGIN                
+0     00001000  DATA_PROCESSING_COMPLETE          
+0     00000000  I2C_scheduler                     
+0     00001194  QUICK_CMD_MODE                    
+0     00000598  RAISE_HOST_INTERRUPT_MEM_FOR_READY
+0     000013f8  READ_BYTE_MODE                    
+0     00001520  READ_WORD_MODE                    
+0     000012d4  RECEIVE_BYTE_MODE                 
+0     000003f0  RESET_MODE                        
+0     00000b24  RX_DATA_SDA_BEGIN                 
+0     00001244  SEND_BYTE_MODE                    
+0     000008a8  START_CONDITION_SDA_LOW           
+0     00001030  STOP_CONDITION_SCL_HIGH           
+0     000009ec  TX_DATA_SDA_BEGIN                 
+0     00001364  WRITE_BYTE_MODE                   
+0     0000148c  WRITE_WORD_MODE                   
+abs   ffffffff  __c_args__                        
+
+
+GLOBAL SYMBOLS: SORTED BY Symbol Address 
+
+page  address   name                              
+----  -------   ----                              
+0     00000000  I2C_scheduler                     
+0     000003f0  RESET_MODE                        
+0     00000598  RAISE_HOST_INTERRUPT_MEM_FOR_READY
+0     000008a8  START_CONDITION_SDA_LOW           
+0     000009ec  TX_DATA_SDA_BEGIN                 
+0     00000b24  RX_DATA_SDA_BEGIN                 
+0     00000eb4  CMD_CODE_SDA_BEGIN                
+0     00001000  DATA_PROCESSING_COMPLETE          
+0     00001030  STOP_CONDITION_SCL_HIGH           
+0     00001194  QUICK_CMD_MODE                    
+0     00001244  SEND_BYTE_MODE                    
+0     000012d4  RECEIVE_BYTE_MODE                 
+0     00001364  WRITE_BYTE_MODE                   
+0     000013f8  READ_BYTE_MODE                    
+0     0000148c  WRITE_WORD_MODE                   
+0     00001520  READ_WORD_MODE                    
+0     000015b4  BLOCK_WRITE_MODE                  
+0     00001668  BLOCK_READ_MODE                   
+abs   ffffffff  __c_args__                        
+
+[19 symbols]
